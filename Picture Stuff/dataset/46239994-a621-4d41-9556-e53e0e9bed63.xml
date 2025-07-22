@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="46239994-a621-4d41-9556-e53e0e9bed63"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/hfs8d4</alternateIdentifier>
+        <alternateIdentifier>10.15156/bio/587443</alternateIdentifier>
+        <alternateIdentifier>46239994-a621-4d41-9556-e53e0e9bed63</alternateIdentifier>
+        <alternateIdentifier>https://plutof.ut.ee/ipt/resource?r=tall_collections</alternateIdentifier>
+        <title>Tallinn Botanic Garden</title>
+        <creator>
+            <individualName>
+                <givenName>Merlyn</givenName>
+                <surName>Pajur</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>merlyn.pajur@botaanikaaed.ee</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Merlyn</givenName>
+                <surName>Pajur</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>merlyn.pajur@botaanikaaed.ee</electronicMailAddress>
+        </metadataProvider>
+        <language>ENGLISH</language>
+        <abstract>
+            Tallinn Botanic Garden stores more than 95 000 herbarium specimens - plants, bryophytes, fungi and lichens, but also fruits, cones and wood.
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://botaanikaaed.ee/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://s3.hpc.ut.ee/plutof-public/original/ec9d3d8d-d972-44bb-90a2-b590fe0dd484.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <individualName>
+                <givenName>Merlyn</givenName>
+                <surName>Pajur</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>merlyn.pajur@botaanikaaed.ee</electronicMailAddress>
+        </contact>
+
+            <project >
+                <title></title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:44Z</dateStamp>
+                <citation>Pajur M. Tallinn Botanic Garden. Tallinn Botanic Garden. Occurrence dataset https://doi.org/10.15468/hfs8d4 accessed via GBIF.org on 2025-07-08.</citation>
+                <resourceLogoUrl>https://s3.hpc.ut.ee/plutof-public/original/517dbc3a-25b0-42db-86d9-ab90dba1903e.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

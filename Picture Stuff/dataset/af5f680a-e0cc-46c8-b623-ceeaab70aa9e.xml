@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="af5f680a-e0cc-46c8-b623-ceeaab70aa9e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/827lk2</alternateIdentifier>
+        <alternateIdentifier>af5f680a-e0cc-46c8-b623-ceeaab70aa9e</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=moscowmha</alternateIdentifier>
+        <title>MHA Herbarium: collections of vascular plants</title>
+        <creator>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nina</givenName>
+                <surName>Stepanova</surName>
+            </individualName>
+            <organizationName>GBS RAN - Glavny Botanichesky Sad Rossijskoj Akademii Nauk</organizationName>
+            <positionName>Ph.D.</positionName>
+            <address>
+                <deliveryPoint>Botanicheskaya 4</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>127276</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>ny_stepanova@mail.ru</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-07-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The official name of the collection is the Skvortsov Herbarium of the Main Botanical Garden, Russian Academy of Sciences (acronym MHA). In 2020, the herbarium was named after well-known Russian botanist Alexey Konstantinovich Skvortsov (1920–2008). For 36 years, he was the scientific supervisor of the MHA Herbarium.</para><para>1. History. The herbarium was launched soon after the founding of the Main Botanical Garden of the Academy of Sciences of the USSR in 1945. Initially, some minor collections of dry plants were stored in workrooms of the staff.</para><para>In 1958, upon the construction of the main lab building, the herbarium received a hall of 280 square meters. A special working group headed by V.N. Voroshilov formed the herbarium staff. Upon formal establishment, the MHA Herbarium received an almost complete set of exsiccates “Herbarium of the Flora of the USSR” from the Komarov Botanical Institute (Leningrad) and all botanical collections from the Timiryazev Institute of Plant Physiology (Moscow), including duplicates of important Moscow collections by D.P. Syreyshchikov, the first curator of the Moscow University Herbarium. These initial holdings were supplemented by the collections from Voronezh and Moscow Oblasts by V.N. Voroshilov, B.M. Kulkov and V.A. Shtamm (Stepanova et al. 2020).</para><para>In 1966, A.K. Skvortsov became the scientific supervisor of the MHA Herbarium. The main vectors of the herbarium development were formed in this time: “Our collections should provide: 1) orientation in the flora, which can serve as a source of the material for introduction; 2) documentation of the introduction &lt;...&gt; The location of the herbarium in the center of European Russia obliges us to create a regional herbarium” (Skvortsov and Proskuryakova 1973). Skvortsov formed the main sections of the herbarium—the Russian Far East, Siberia, Middle Asia, the Caucasus, the Moscow Region, the European part (European Russia and adjacent republics of the former USSR), the Crimea; General Herbarium (foreign countries); Herbarium of Introduction; Dendrological Herbarium; type collection; Skvortsov’s personal herbarium (taxonomic collections of Salix, Populus, Betula, Epilobium, as well as materials on the flora of the Middle Russia and Lower Volga).</para><para>Some Russian-language references describe the main milestones in the history of the MHA Herbarium (Skvortsov and Proskuryakova 1973, Skvortsov 1977, Belyanina and Makarov 1994, Skvortsov and Belyanina 2005, Ignatov et al. 2010, Ignatov 2015, Stepanova et al. 2020). Current digitization activities allow us to detail the list of collectors, the time and place of their work, the number of the collected specimens and its taxonomic composition.</para><para>2. The current state. As of January 2020, the MHA Herbarium holds 615223 specimens of vascular plants and ca. 70000 specimens of bryophytes. This is the fourth largest herbarium of Russia after the Komarov Institute, RAS in St. Petersburg (LE), Moscow State University (MW) and the Joint Novosibirsk Herbarium, RAS (NS &amp;#43; NSK). The general geographical structure of the MHA Herbarium is given in Table 1. The annual growth of the collections since 2015 was ca. 5900 accessions of vascular plants and ca. 2000 accessions of bryophytes.</para><para>The herbarium of vascular plants is located in two halls (334 square meters) in the main lab building of the Garden. Duplicates and unmounted backlog are stored in several rooms (120 square meters) at Botanicheskaya Street, 33-4 (ten minute walk from the main building). The herbarium of bryophytes is also stored at Botanicheskaya Street in several rooms (180 square meters).</para><para>Currently, the MHA Herbarium has 12 staff members (of which six are working with vascular plants). There are eight curators &amp; researchers, a mounter, and three employees who are digitizing and filing the specimens. The staff members conduct field research across Russia in Tver, Tula, Kaluga, Belgorod, Rostov, Saratov, Volgograd, Orenburg Oblasts, Kalmykia, Dagestan, Ingushetia, Stavropol Krai, Yakutia, etc. The total duration of expeditions is ca. 240 person-days per year. Fresh collections of the employees forms 70% of new accessions. Other accessions are coming from the exchange, gifts and old backlog.</para><para>In 2018–2019, the herbarium staff imaged the Moscow section (100%) and the Eastern European section (14.1%) of the MHA Herbarium. In total, 64008 specimens were digitized (600 dpi images and key metadata). These data were published in the Moscow Digital Herbarium in 2019–2020 and fully available in GBIF. Based on these data, a detailed overview of the physical collections of these two sections is given below, as well as spatial, temporal, and taxonomic description of the dataset.</para><para>As of May 2020, 50324 specimens from MHA Herbarium have georeferences (78.6%) and 39448 specimens have fully captured label transcriptions (61.6%).</para><para>3. Moscow section holds 49621 specimens and covers two subjects of the Russian Federation—the City of Moscow and Moscow Oblast. The section is completely imaged and curated as a separate unit. Physical separation of the Moscow section from other collections is a result of geographical location of the MHA Herbarium and high intensity of the field research in the area. Full list of collectors consists of 823 surnames, including 127 people who collected more than 10 specimens. The list of top collectors of the Moscow section is given in table 2.</para><para>The basis of the Moscow section was formed by ca. 2000 specimens by D.P. Syreyshchikov and ca. 700 specimens by P.A. Smirnov collected in 1920s and received from the Timiryazev Institute of Plant Physiology (Moscow).</para><para>The staff collected later accessions right in the Garden (Ostankino in Moscow) and various areas across the Moscow Oblast – V.N. Voroshilov (1940–1950s), T.N. Evtyukhova (1940s), V.A. Shtamm (1940–1960s), G.P. Rysina (1960s), B.M. Kulkov (1940–1950s). The donations of V.I. Sobolevsky (1950s), A.A. Nekrasov (1950–1960s), A.I. Manin (1960–1970s), A.P. Khokhryakov (1950–1960s) and others from different areas of the Moscow region enriched the section as well.</para><para>In 1970–1990s, V.V. Makarov, M.S. Ignatov, A.N. Shvetsov, V.D. Bochkin, E.E. Gogina, A.E. Matsenko made the largest collections across the Moscow region due to the research missions of the Garden employees devoted to rare and endangered plant species, audit and organization of the protected areas with a focus on the districts west of Moscow.</para><para>Also, the Garden staff studied intensively the alien flora of the Moscow region. This resulted in the special collections by A.K. Skvortsov, V.V. Makarov, M.S. Ignatov, A.N. Shvetsov, expanded later by V.D. Bochkin assisted by S.R. Mayorov, Yu.A. Nasimovich and Yu.K. Vinogradova. Their collections became the basis of monographic reviews on the alien flora of the Moscow region (Ignatov et al. 1990, Mayorov et al. 2012, Mayorov et al. 2020).</para><para>E.I. Kurchenko (Serpukhov District), N.M. Reshetnikova (Ruza District), V.B. Kuvaev (Znamenskoye near Moscow), Yu.A. Nasimovich with L.A. Deystfeldt (several districts) donated their collections from the Moscow region (Skvortsov and Belyanina 2005). In the last decade, K.Yu. Teplov transferred large collections of rare plants from the locations across the region.</para><para>4. Eastern European section covers plant collections from European Russia, the Urals, the Baltic countries, Belarus, Ukraine, Moldova, and Western Kazakhstan (west of the Ural River). The section does not include Moscow region, the Caucasus and the Crimea. Today, the section contains 101034 specimens, incl. 14288 imaged specimens (14.1%). Thus, statistics on collectors and collection dates for this section are based on a 14-percent sample that covers pteridophytes, conifers, and most monocots.</para><para>The collection consists mainly of specimens of the Garden staff collected during field trips since the 1950s. Initially, herbarium vouchers accompanied living plants and seeds collected in wild for the expositions of the Garden. This documentation activity was later supplemented by extensive floristic and taxonomic studies, conservation research and monitoring of alien species.</para><para>4.1. Lower Volga. The flora of the southeast of European Russia is the most fully represented regional flora of the Eastern European section. The region known as Lower Volga includes Volgograd, Astrakhan, and Saratov Oblasts and the Republic of Kalmykia. This is a predominantly semi-arid steppe region. The list of collectors includes 136 surnames (see top-collectors in Table 3), but for 53 people only one specimens have been digitized so far.</para><para>A.K. Skvortsov began the studies of the Lower Volga region in 1950s. In 1970–1990s, floristic expeditions were regular and the key collectors of that time were A.K. Skvortsov, A.E. Matsenko, V.V. Makarov, N.B. Belyanina, I.A. Shantser, V.D. Bochkin, as well as staff members of the Volgograd Pedagogical University (N.G. Volodina, V.A. Sagalaev, G.Yu. Klinkova). In 2010s, the collection activities were continued by N.Yu. Stepanova assisted by A.V. Kuvaev (Severtsov Institute) and I.N. Safronova (Komarov Institute) during their floristic studies of the Kuma-Manych depression and the Caspian Lowland.</para><para>Vast materials helped to assess critically the current state of the flora of the southeast of European Russia and to publish two volumes of the “Flora of the Lower Volga” (Skvortsov 2006, Reshetnikova 2018). The third volume of the series is expected in near future.</para><para>4.2. Other areas. The MHA Herbarium covers with varying degree of completeness all regions of Eastern Europe within the former USSR. Table 4 shows the main collections from this territory, excluding Lower Volga. Borders of the curatorial areas used in the Moscow Digital Herbarium (https://plant.depo.msu.ru/) are available online.</para><para>A large number of specimens from the Central forest-steppe region resulted from the recent floristic studies by staff member N.M. Reshetnikova (Belogorye Reserve, Belgorod Oblast) and graduate student A.K. Mamontov (Veidelevsky District, Belgorod Oblast). Collections by V.N. Voroshilov (Voronezh Oblast), V.V. Makarov (Tambov Oblast), and A.P. Khokhryakov (Penza Oblast) should be acknowledged either.</para><para>Collections from the Western region (Smolensk and Bryansk Obkasts) were also made mainly by the herbarium staff (A.K. Skvortsov, V.V. Makarov, N.B. Belyanina). Yu.E. Alekseev from Moscow University donated his collections from Bryansk Oblast as a gift.</para><para>A large number of collections from the Central region are associated with lengthy floristic studies by N.M. Reshetnikova in Kaluga Oblast expanded significantly by A.K. Krylov by the study of alien plants (Reshetnikova et al. 2010). In addition, the herbarium was enriched by the collections of V.D. Bochkin and V.V. Makarov from Kaluga, Tula and Vladimir Oblasts. Lesser collections were donated by V.I. Sobolevsky (Kaluga Oblast) and A.P. Seregin (Vladimir and Tula Oblasts).</para><para>The West-Ukrainian region is represented mainly by collections from the Carpathians donated by V.I. Sobolevsky and A.P. Khokhryakov, and minor gatherings by the expedition headed by A.K. Skvortsov.</para><para>Major collections from the Eastern region were donated by L.A. Utkin (Southern Urals), A.P. Khokhryakov and M.T. Mazurenko (Bashkiria). A.K. Skvortsov also collected a lot in the 1950s in the Denezhkin Kamen Reserve (Sverdlovsk Oblast) and Zlatoust (Chelyabinsk Oblast).</para><para>Important collections from other areas include:</para><para>• Northern region—A.K. Skvortsov (Western Polar Urals, Khibiny), T.M. Smirnova (Karelia, Kola Peninsula), M.S. Ignatov (Arkhangelsk Oblast, Nenets Autonomous Okrug);</para><para>• Rostov Region—N.Yu. Stepanova (Kumo-Manch Depression and adjacent areas);</para><para>• Western Siberia—A.K. Skvortsov (Eastern Polar Urals);</para><para>• Lithuania and the North-Ukrainian region—V.V. Makarov.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Additional Information on Temporal Coverage
+
+The Moscow and East European sections of the MHA Herbarium were launched in the second half of the 20th century, and collections continue to grow in the 21st century. The mean year of collection for the digitized specimens of the entire MHA Herbarium is 1976. The mean collection date shows in which regions the herbarium was currently active and from what areas, in particular, there is fresh material for DNA studies or adequate collections of recently spreading alien species. From the majority of regions new collections came evenly since the foundation of the MHA Herbarium. They have an average collection date of 1975–1978 (table 5).
+
+In recent decades, collections came mainly from four regions—Rostov Oblast, Lower Volga region, Central region (mainly Kaluga Oblast), Central Forest-Steppe Region (mainly Belgorod Oblast). These are the places of the fieldwork of the current herbarium employees, as well as the above-mentioned expeditions across the Lower Volga region of the 1990s. On the contrary, there have been no significant accessions from Ukraine, Belarus, Moldova, Estonia, Latvia, as well as some regions of European Russia in recent decades.
+
+1. Moscow section. In this section, 49550 specimens bear collection date after 1890. Their temporal distribution over decades is given in Fig. 1.
+
+
+Peak of 1920s resulted from the transfer of earlier collections by D.P. Syreishchikov. The original collections of the Moscow section of the MHA Herbarium dated back to the period 1945–2018 with two peaks of major accessions—1960s and 1980s.
+
+In the 1960s, the main collections came from V.A. Shtamm (1709 specimens), A.K. Skvortsov (1370), V.V. Makarov (1314), G.P. Rysina (831), E.I. Kurchenko (549), A.P. Khokhryakov (445), A.A. Nekrasov (356), E.E. Gogina (181), V.S. Drozdova (153), N.K. Shvedchikova (143). This was the time of active studies of the native flora and the publication of the standard guide by Voroshilov et al. (1966), still the only monograph on the native flora of the Moscow region.
+
+In the 1980s, the most important Moscow collections were gathered by the MHA Herbarium employees M.S. Ignatov (2716 specimens), V.D. Bochkin (2585), V.V. Makarov (1375), A.N. Shvetsov (577), A.K. Skvortsov (512). Lesser contributions were made by V.B. Kuvaev (391), L.A. Deistfeldt (117), N.V. Kostyleva (108), A.E. Matsenko (91), A.V. Shcherbakov (65). In this period, intensive studies of the alien flora of the Moscow region resulted in the checklist by M.S. Ignatov et al. (1990). This paper became the foundation for the further study of invasive plants around Moscow (Mayorov et al. 2012, Mayorov et al. 2020).
+
+2. Lower Volga. At the moment, 3244 specimens from this region have been digitized so far. We assume that the total volume of collections from the Lower Volga is 23170+ specimens. Figures given below are based on 3145 digitized specimens (14% of the collection volume) having a collection date after 1890. Their temporal distribution over decades is given in Fig. 2.
+
+Notable collections from the Lower Volga began to arrive in the mid-1970s, but the peak of the major accessions stretched over the 1980s and 1990s. Especially large collections were made in 1982, 1986, 1989–1990 and 1993–1994.
+
+In the 1980s, the major collections came from N.B. Belyanina (2500 estimated number of specimens / 350 digitized), V.D. Bochkin (990/139), V.A. Sagalaev (670/94), G.Yu. Klinkova (460/64). In the 1990s, the most important collections from the Lower Volga were accessed from V.A. Sagalaev (2080/291), G.Yu. Klinkova (1940/271), V.D. Bochkin (1470/206), I.A. Shantser (830/116), A.K. Skvortsov (790/110), S.R. Mayorov (230/41). These figures are based on the senior collectors mentioned in the labels, but in 1993, a top-record year, an expedition supported by the U.S. National Geographic Society collected at least 5100 specimens (716 digitized) during a many-month trip across the Lower Volga region and Western Kazakhstan performed by V.A. Sagalaev, G.Yu. Klinkova, I.A. Shantser, V.D. Bochkin, A.K. Skvortsov, M.Yu. Polonskaya, M.V. Kostina, V.V. Dzhanaeva and others.
+
+3. Other Eastern European collections. Among other Eastern European collections, the most noticeable are those from the Central region (especially Kaluga Oblast) (12940 estimated number of specimens / 1812 digitized), the Central Forest-Steppe region (especially Belgorod Oblast) (10420/1459) and the Northern region (8990/1259). Their temporal distribution over decades is given in Fig. 3.
+
+Accessions from the Central region have two peaks—in the 1970s (especially 1971, 1974) and in 2000–2010s (especially 2003, 2007, 2014). In the 1970s, the main collections were received from V.V. Makarov (820 estimated number of specimens / 115 digitized) and A.K. Skvortsov (290/41), and in the 2000–2010s from N.M. Reshetnikova (2600/364), A.P. Seregin (940/132), A.V. Krylov (740/104), A.A. Shmytov (320/45). The most sampled area is Kaluga Oblast intensively studied by the herbarium staff. This resulted in the publication of the standard regional flora (Reshetnikova et al. 2010).
+
+The collections from the Central forest-steppe region has two peaks—in the 1960s (especially 1966, 1968) and in the 2000s (especially 2006, 2007, 2008). In the 1960s, the main collections were acquired from V.V. Makarov (1510 estimated number of specimens / 211 digitized), A.P. Khokhryakov (330/46), A.K. Skvortsov (230/32), and in the 2000s from N.M. Reshetnikova (1410/197), A.K. Mamontov (790/110), A.P. Seregin (340/47).
+
+Accessions from the Northern region are distributed more evenly across decades. Two peaks can be noted—in the 1950s—1960s (especially 1951, 1966) and in the 1980s (especially 1988). In the 1950–1960s, the main collections came from A.K. Skvortsov (850 estimated number of specimens / 119 digitized), V.I. Sobolevsky (460/64), A.P. Khokhryakov (290/41), and in the 1980s from Konovalova (350/49), Smirnova (340/48), and Proskuryakova (340/47).</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://depo.msu.ru/ipt/archive.do?r=moscowmha</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Eastern European section of the MHA Herbarium predominantly includes collections from the European Russia (Table 5). The most sampled areas are the Moscow region, Lower Volga, Central and Central forest-steppe regions (Table 6), the areas intensively studied by the Garden staff. Initially, these regions were inextricably linked with the activities of A.K. Skvortsov, whose fruitful initial collections often formed the solid basis for the later extensive floristic research.
+
+Moscow region forms its own section in the MHA Herbarium. This is due to the location of the Garden in the City of Moscow. One of the initial missions of the herbarium was precise documentation of the local flora, including long-term observations of both native and alien plants. Based on these materials, standard floras and checklists were published by the Garden staff in collaboration with the Moscow University (Voroshilov et al. 1966, Ignatov et al. 1990, Mayorov et al. 2012, Mayorov et al. 2020).
+
+Lower Volga region was one of the focus areas for A.K. Skvortsov, his graduate students and the herbarium employees. This activity resulted in the published volumes of the “Flora of the Lower Volga” (Skvortsov 2006, Reshetnikova 2018). The Central region is also well-represented in the collection due to another long-term floristic interest of A.K. Skvortsov, which was later continued by the herbarium staff who published “Kaluga Flora” (Reshetnikova et al. 2010). Belgorod Oblast in the Central forest-steppe region is a new area of the research headed by N.M. Reshetnikova. Other regions are less represented and are not as complete and thorough. Usually, these are either collections from various field trips of the Garden staff or gifts.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>19.5</westBoundingCoordinate>
+                    <eastBoundingCoordinate>69.5</eastBoundingCoordinate>
+                    <northBoundingCoordinate>77</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.5</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1800-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The dataset covers vascular plants of Eastern Europe, both native and alien species. There are also some specimens of cultivated plants, especially from the Moscow region. The Moscow section is completely digitized and can provide figures on the taxonomic representation of the MHA Herbarium collections, whereas the Eastern European section has been digitized by 14%, and therefore information on its taxonomic composition shows which families have been digitized so far.
+
+Until 2017, the taxonomic backbone of the MHA Herbarium was the standard checklist by Czerepanov (1995). In some cases, the section curators could deviate from this source depending on their taxonomic expertise. V.D. Bochkin in the Moscow section and N.M. Reshetnikova in the Eastern European section adjusted the deviations. In 2019, with the preparation of the Moscow collections for imaging, we revised the names on folders against The Plant List (TPL, http://www.theplantlist.org/) superseded shortly by Plants of the World Online (POWO, http://www.plantsoftheworldonline.org/). A similar approach was subsequently used before imaging of the Eastern European holdings with some deviations emerged from either the standard regional floras or new taxonomic monographs (Pimenov and Ostroumova 2012, Tzvelev and Probatova 2019, etc.).
+
+Moscow section. It includes 2261 species and hybrids from 773 genera and 138 families. The flora of the Moscow region (the City of Moscow and Moscow Oblast) currently encounts 2363 taxa of vascular plants, including both wild and unintentionally introduced plants (Shcherbakov and Lyubeznova 2018). We could explain a high diversity of the Moscow collections by the incorporation of purely cultivated plants practiced by the researchers of the alien flora (in case these species are found outside the culture). The section includes also some reference specimens of the Main Botanical Garden exposition. See tables 7, 8, 9 for taxonomic coverage across the leading taxa.
+
+Eastern European section. In this section, 14% of the collections have been digitized so far, therefore the tables 10, 11, 12 given below show not the taxonomic diversity of the section, but overview of imaged specimens. The specimens were scanned one by one following the order of physical collection—pteridophytes, gymnosperms, and angiosperms following the Engler’s against the standard catalogue (Dalla Torre and Harms 1900–1907). Thus, Pteridophyta, Equisetophyta, Lycopodiophyta, Pinophyta and monocots from Typha to Scirpus radicans (Dalla Torre numbers 1 to 468) were imaged. In addition, the genus Crataegus (Rosaceae) was digitized unscheduled.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>To schedule and perform the digitization of the MHA Herbarium collections, we used five key stages by Nelson et al. (2012): 1) pre-digitization curation and staging, 2) specimen image capture, 3) specimen image processing, 4) electronic data capture, 5) georeferencing specimen data.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>1. Pre-digitization curation and staging
+
+The section curator reviews all incoming physical accessions for meeting the basic requirements of the herbarium specimen. A specimen should be a high-quality dried plant (or several individuals) with a label bearing identification, collection site, habitat, date and collector. After that, unmounted new material is frozen at a temperature of –30°C for 14 days and then mounted. New collections are counted (and listed in the collection journal) right after mounting. Sorting and incorporation of new material take place once a year, usually in the autumn-winter period. Right before imaging, pre-ordered barcodes with an acronym and a seven-digit number (e.g. MHA 0 002 094) were sticked to each specimen.
+
+Eastern European section. In December 2017, with the purchase of a specialized scanner Microtek ObjectScan 1600, we began the imaging of vascular plants in the MHA Herbarium. Since the specimens from European Russia and adjacent states constitute the largest and most used section of the herbarium, we decided to start imaging from this section. If there were two or more taxa on a single sheet, they were remounted as several specimens.
+
+Moscow section. From March to October 2019, the Moscow section of the herbarium was imaged in line with the work under the RFBR grant &quot;Information system Flora of Moscow on the platform of the Moscow Digital Herbarium&quot; (under A.P. Seregin). The imaging of the Eastern European section was suspended for this time. Within the framework of the project, N.M. Reshetnikova (MHA Herbarium) and S.R. Mayorov (Moscow University) thoroughly revised the taxonomy of all Moscow specimens. After that, we checked the nomenclature on the folders.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2. Specimen image capture
+
+Specimens were imaged in accordance with international standards with a resolution of 600 dpi and a color checker (24 colors). After scanning, each image was automatically renamed according to the barcode. In total, 14274 specimens of the Eastern European section were digitized in 2017–2018. Imaged Eastern European collections at that time were stored on external disks without online access.
+
+The Moscow section was scanned more intensively under the time limit from March to October 2019. Every day, two to three operators worked on the scanner in shifts. For each shift lasting four to five hours, 140–160 specimens were digitized. Thus, 300–400 specimens were imaged per day. In total, the herbarium team imaged 49621 specimens within eight months and completed the mission.
+
+During the imaging, we encountered a number of minor issues (A, B, C, D).
+
+A. Some specimens have large plants covering partly or fully the label text. The specimens were imaged as they are, whereas the labels will be captured not from the image, but from the physical specimen later.
+
+B. Sometimes two different species were mounted on a single sheet. In such cases, if possible, the specimen was remounted into two sheets. If the remounting was impossible or impractical, the single specimen was scanned, but the image was duplicated, and each file was assigned an additional digit (&quot;-1&quot; or &quot;-2&quot;) to facilitate unique identifiers for each species.
+
+C. Labels of a larger size widely used in the exsiccates &quot;Herbarium of the flora of the USSR&quot; were often folded during mounting. We tried to remount such labels to make text fully available on images, but in some cases, the label covered the plant partly.
+
+D. In some cases, two or more parts of the same large plant were mounted on several sheets bearing a single label and further notes like “sheet #2”, “sheet #3”, etc. These sheets were initially inserted into the cupboards being fastened with a removable paper clip. However, they have been mixed over time with other specimens, so now it is impossible to trace the correct label for these multiple “sheets #2”.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>3. Specimen image processing
+
+While scanning, the operator started a new directory for every species and name it against folder name. Before uploading the images into the Moscow Digital Herbarium, the structure of the directories was converted into a table of metadata. Thus, for each accession, the initial metadata included ID (barcode identifier) and taxon name from folder without taxonomic authors. The geographic code of the area was known for the Moscow section.
+
+The taxon name, according to the protocols of the Moscow Digital Herbarium, was automatically matched with the latest version of the “Catalogue of Life” (https://www.catalogueoflife.org/), from which the complete accepted name, synonymy and hierarchical list of supraspecific taxa were downloaded for every entry.
+
+Publication of images with brief metadata is a powerful tool for rapid online access to the scanned herbarium collections. This approach was largely used in Paris where the largest herbarium of the world was imaged and published online (Le Bras et al. 2017). Similar protocols were adopted in Edinburgh and the Moscow University (Haston et al. 2012, Seregin 2016).
+
+After online publication of the Moscow region specimens in the Moscow Digital Herbarium and GBIF, other sections of the MHA Herbarium will come through the same procedure. Thus, to date, 64008 images of specimens of vascular plants from the MHA Herbarium are available online.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>4. Electronic data capture
+
+After online publication of the images and associated brief metadata, we link the records with existed full-label captures of 7087 specimens of the Moscow section (14.3%) made earlier by T.G. Nosova and I.A. Kravtsov in the form of xlsx-table. For the remaining 42534 specimens, the operators of the Moscow Digital Herbarium entered mandatory metadata—the collection date, the first collector, curatorial area, and coordinates (if present on the label).
+
+Similarly, a table with full-label captures for 11716 specimens from Eastern Europe (82% of the scanned ones) made by E.A. Karakina and B.L. Oshovskaya was uploaded as well. For the remaining 2572 specimens, the operators of the Moscow Digital Herbarium and employees of the Garden entered additional mandatory metadata.
+
+Thus, the minimum obligatory set of metadata available for all digitized specimens of the MHA Herbarium in this dataset include barcode ID, complete taxonomic information, collection date, the first collector, curatorial area, and geographical coordinates (if available on the label). Additionally, 18803 specimens had full-text inscriptions of labels (29.4%) due to the earlier efforts.
+
+Further full-text data capturing was carried out by the operators of the Moscow Digital Herbarium for specimens collected within the City of Moscow (15982 specimens). An operator entered the label data from the scanned image into an xlsx-spreadsheet with 30 standard fields (including some pre-filled ones to avoid mistakes). Additionally, a commercial partner under the GBIF contract (2019) made full-text transcriptions of 4617 specimens from the City of Moscow and Moscow Oblast.
+
+After data entry, the scientific supervisor of the Moscow Digital Herbarium is checking the spreadsheets for technical issues by a set of automatic, semi-automatic and manual operations. IT-team using the data migrator program converts data from xlsx to PostgreSQL database of the Moscow Digital Herbarium for further data storing and retrieving. This stage also includes some automatic checks of data consistency.
+
+Now, the full text of labels has been entered for 39448 specimen of the MHA Herbarium (61.6% of the imaged ones)—27783 specimens of the Moscow section and 11665 specimens of the Eastern European section. Full-text label transcriptions help to optimize the further georeferencing by combining labels with identical text into groups.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>5. Georeferencing specimen data
+
+The operators of the Moscow Digital Herbarium and the Garden employees carried out manual georeferencing with further implementation of the ISTRA system (Intellectual System of Toponymic Reading and Attribution).
+
+The first algorithm of the ISTRA system combines the specimens into the groups according to the coincidence of the captured label text. In this case, there are two options for combining—complete matching mode and letters-only mode. Results does not differ in accuracy from the manual georeferencing. The second algorithm of the ISTRA system forms the specimen groups according to the coincidence of three fields—collection date, collector’s surname and curatorial area. Within the walking day route, the standard georeferencing accuracy in most cases does not exceed 5 km. Further data refinement will help us to replace automatic georeferences with more accurate manual ones.
+
+In both cases, the operator inserts the coordinates manually and the system sets the coordinates automatically for all specimens of the group. The first algorithm takes precedence over the second one. In all cases, we save the log file and the note on georeferencing method in a form of the standard disclaimers: (1) captured from the label; (2) set manually by the operator; (3) set automatically by matching of the label text; (4) set automatically by matching of the date and collector.
+
+Manual georeferencing is carried out using standard e-cartographic libraries (Yandex.Maps, GoogleMaps, wikimapia.org, SAS-Planet, etc.) for modern specimens, whereas historic collections are georeferenced using the libraries of scanned maps (etomesto.ru, loadmap.net, etc.) following the principle “collection date = map date”. Coordinate precision (rounded to 100 m) is set and stored for each manual georeferencing.
+
+Complete georeferencing of the specimens from the City of Moscow was a key task in 2020 for the Moscow University team (according to the Moscow project), whereas employees of the MHA Herbarium georeferenced specimens from Moscow Oblast and Eastern Europe (starting from the most fruitful collectors). In total, 50324 specimen are georeferenced (74%), including 49732 specimens from Russia.
+
+For 7414 specimens, the coordinates were taken from the label (14.7% of the number of georeferenced ones), for 10849 specimens (21.6%) they were set manually, and for 32061 specimens (63.7%) figured automatically using the ISTRA system.</para>
+                </description>
+            </methodStep>
+        </methods>
+
+            <project id="N-Eurasia-Russia2020-W-Urals">
+                <title>West of Urals 2020</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>EDITOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:45Z</dateStamp>
+                <citation>Seregin A, Stepanova N (2025). MHA Herbarium: collections of vascular plants. Version 1.296. Tsitsin Main Botanical Garden Russian Academy of Sciences. Occurrence dataset https://doi.org/10.15468/827lk2 accessed via GBIF.org on 2025-07-08.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.3897/BDJ.8.e57512">Seregin AP, Stepanova NYu (2020) MHA Herbarium: Eastern European collections of vascular plants. Biodiversity Data Journal 8: e57512.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

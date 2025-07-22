@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f1277dd4-84c5-4e84-b300-d5a7ac3c1edd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/d6rsav</alternateIdentifier>
+        <alternateIdentifier>http://danbif.au.dk/ipt/resource?r=vascular_plants_danish_coastal_meadows</alternateIdentifier>
+        <alternateIdentifier>f1277dd4-84c5-4e84-b300-d5a7ac3c1edd</alternateIdentifier>
+        <title>Vascular plants in Danish coastal meadows</title>
+        <creator>
+            <individualName>
+                <givenName>Peter</givenName>
+                <surName>Vestergaard</surName>
+            </individualName>
+            <organizationName>University of Copenhagen, Department of Biology</organizationName>
+            <positionName>Emeritus Associate Professor</positionName>
+            <address>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>peter@2ps.dk</electronicMailAddress>
+            <onlineUrl>http://www1.bio.ku.dk/english/staff/?pure=en/persons/137677</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Isabel</givenName>
+                <surName>Calabuig</surName>
+            </individualName>
+            <organizationName>DanBIF - Danish Participant node of GBIF</organizationName>
+            <positionName>Node manager &amp; Data curator</positionName>
+            <address>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>icalabuig@snm.ku.dk</electronicMailAddress>
+            <userId directory="https://www.linkedin.com/profile/view?id=">24124005</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Isabel</givenName>
+                <surName>Calabuig</surName>
+            </individualName>
+            <electronicMailAddress>icalabuig@snm.ku.dk</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2018-03-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Occurrence dataset created by emeritus Associate Professor Peter Vestergaard and published by Department of Biology, University of Copenhagen. In Danish waters, a gradient in seawater salinity between the brackish Baltic Sea and the salt North Sea exists. Along protected, low-energy parts of the adjacent coasts, coastal meadows (salt marshes), influenced by seawater of varying salinity, is a common type of nature. During the 1980s, the vegetation ecology of these salt and brackish coastal meadows was studied in the southeastern part of Denmark by Peter Vestergaard. For the study, 20 localities (loc. 1-20) were selected. The field work was carried out 1982-1985. In each locality, a number of compartments, each with a uniform plant cover, were selected and mapped. In total, 262 compartments (comp.1-262) were studied. The abundance of each species was estimated according to a 1-7 ordinal scale of cover-abundance. The dataset contains URLs for online images of maps with localities and selected examples of the habitats studied.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Salt marsh</keyword>
+            <keyword>Coastal grassland</keyword>
+            <keyword>Coastal reed swamp</keyword>
+            <keyword>Coastal salt meadow plant species</keyword>
+            <keyword>Cover-abundance of plants</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://danbif.dk/se-eksempler/vascular-plants-in-danish-coastal-meadows/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://danbif.au.dk/ipt/archive.do?r=vascular_plants_danish_coastal_meadows</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Denmark</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>7.8</westBoundingCoordinate>
+                    <eastBoundingCoordinate>15.49</eastBoundingCoordinate>
+                    <northBoundingCoordinate>57.84</northBoundingCoordinate>
+                    <southBoundingCoordinate>54.43</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1982-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1985-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Superphylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                    <commonName>Vascular Plants</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Peter</givenName>
+                <surName>Vestergaard</surName>
+            </individualName>
+            <organizationName>University of Copenhagen, Department of Biology</organizationName>
+            <positionName>Emeritus Associate Professor</positionName>
+            <address>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>peter@2ps.dk</electronicMailAddress>
+            <onlineUrl>http://www1.bio.ku.dk/english/staff/?pure=en/persons/137677</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>See 
+Vestergaard, P. 1998. Vegetation Ecology of Coastal meadows in Southeastern Denmark. Opera Botanica  
+        134: 1-69. 
+Vestergaard, P. 2002. Studies in vegetation and soil of coastal meadows in Denmark. A conspectus of 
+        previous studies. DSc thesis, Dept. of Botany, University of Copenhagen.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>During the 1980s, the vegetation ecology of these salt and brackish coastal meadows was studied in the southeastern part of Denmark. For the study, 20 localities (loc. 1-20) were selected. The field work was carried out 1982-1985. In each locality, a number of compartments, each with a uniform plant cover, were selected and mapped. In total, 262 compartments (comp.1-262) were studied.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>In each compartment 1) species composition was recorded, using a 1-7 ordinal scale of cover-abundance (http://digit.snm.ku.dk/DanBIF/DKCoastalMeadows/CoverageAbundanceScaleRef.jpg), for later multivariate analysis, 2) elevation was levelled in relation to mean water level, 3) soil samples were taken for later analysis of physical and chemical soil factors, 4) Human utilization was observed and later investigated in more details by interviews with present and former landowners, 5) a photo was taken, 6) GPS coordinates were later obtained using Google Earth.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>See cited publications.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:45Z</dateStamp>
+                <citation>Vestergaard P, Calabuig I (2018). Vascular plants in Danish coastal meadows. Version 1.6. Department of Biology, University of Copenhagen. Occurrence dataset https://doi.org/10.15468/d6rsav accessed via GBIF.org on 2025-07-08.</citation>
+                <bibliography>
+                <citation identifier="http://research.ku.dk/search/?pure=en/publications/vegetation-ecology-of-coastal-meadows-in-southeastern-denmark(1c40b4a0-74ca-11db-bee9-02004c4f4f50).html">Vestergaard, P. 1998. Vegetation Ecology of Coastal meadows in Southeastern Denmark. Opera Botanica 134: 1-69.
+ISBN: 87-88702-62-6</citation>
+                <citation identifier="ISBN 87-987317-3-4">Vestergaard, P. 2002. Studies in vegetation and soil of coastal meadows in Denmark. A conspectus of previous studies. DSc thesis, Dept. of Botany, University of Copenhagen.
+ISBN 87-987317-3-4</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

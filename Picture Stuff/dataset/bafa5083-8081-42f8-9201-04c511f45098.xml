@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="bafa5083-8081-42f8-9201-04c511f45098"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/4f0bmt</alternateIdentifier>
+        <alternateIdentifier>bafa5083-8081-42f8-9201-04c511f45098</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=biobase</alternateIdentifier>
+        <title>Collections of Bioclass, school #179, Moscow</title>
+        <creator>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Reshetnikova</surName>
+            </individualName>
+            <organizationName>School #179, Moscow</organizationName>
+            <positionName>Scientific adviser, botanist, biology teacher</positionName>
+            <address>
+                <deliveryPoint>Bolshaya Dmitrovka Str. 5/6, building 7</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>125009</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Elena</givenName>
+                <surName>Kudryavtseva</surName>
+            </individualName>
+            <organizationName>School #179</organizationName>
+            <positionName>Curator of fauna and hydrobiology sections, biologist, biology teacher</positionName>
+            <address>
+                <deliveryPoint>Bolshaya Dmitrovka Str. 5/6, building 7</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>125009</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>kudryavtseva@179.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Eugenia</givenName>
+                <surName>Petrash</surName>
+            </individualName>
+            <organizationName>School #179</organizationName>
+            <positionName>biologist, biology teacher</positionName>
+            <address>
+                <deliveryPoint>Bolshaya Dmitrovka Str. 5/6, building 7</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>125009</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>petrash@179.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Lapin</surName>
+            </individualName>
+            <organizationName>School #179, Moscow</organizationName>
+            <positionName>Database administrator, programmer</positionName>
+            <address>
+                <deliveryPoint>Bolshaya Dmitrovka Str. 5/6, building 7</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>125009</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>a-lapin@narod.ru</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Lapin</surName>
+            </individualName>
+            <organizationName>School #179, Moscow</organizationName>
+            <positionName>Database administrator, programmer</positionName>
+            <address>
+                <deliveryPoint>Bolshaya Dmitrovka Str. 5/6, building 7</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>125009</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>a-lapin@narod.ru</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Herbarium Curator</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1824-7453</userId>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2020-05-29
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The dataset contains information about biological observations which were done by teachers and students of biological class (Moscow school #179). The biological class is under the patronage of M.V. Lomonosov Moscow State University. Observations include botanic, zoology and hydrobiology parts.</para>
+<para>The original dataset is available on the website of Moscow shool#179 (http://biobase.179.ru/). It is consisted of photos and short videos of biological objects, and also includes that sort of information: species, classification, sex (if possible), age (if possible) and some interesting observations about object, as well as geographic coordinates of finding.</para>
+<para>The major part of the data represents the European part of Russian Federation; areas covered also include Armenia, Israel and Greece.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://depo.msu.ru/ipt/archive.do?r=biobase</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The European part of Russian Federation, Greece, Israel and Armenia. The area of observations can be expanded by the time.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-166</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-14</eastBoundingCoordinate>
+                    <northBoundingCoordinate>80</northBoundingCoordinate>
+                    <southBoundingCoordinate>15</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                0006-06-26
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                0006-07-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Lapin</surName>
+            </individualName>
+            <organizationName>School #179, Moscow</organizationName>
+            <positionName>Database administrator, programmer</positionName>
+            <address>
+                <deliveryPoint>Bolshaya Dmitrovka Str. 5/6, building 7</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>125009</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>a-lapin@narod.ru</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:43Z</dateStamp>
+                <citation>Reshetnikova N, Kudryavtseva E, Petrash E, Lapin A (2020). Collections of Bioclass, school #179, Moscow. Version 1.5. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/4f0bmt accessed via GBIF.org on 2025-07-08.</citation>
+                <resourceLogoUrl>https://depo.msu.ru/ipt/logo.do?r=biobase</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

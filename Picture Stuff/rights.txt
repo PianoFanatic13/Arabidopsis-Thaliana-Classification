@@ -1,0 +1,114 @@
+Dataset: University of Tartu Natural History Museum and Botanical Garden Botanical Collections 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vascular plant herbarium TRH, NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium Dresdense 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NABU|naturgucker 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium SLTC-N2 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Images and observations of mostly edible plants in Stephen Barstow’s Edible Garden in Norway, taken between 2005 and 2014 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Horti sicci by Siiri Kõljalg 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum, Vienna - Herbarium W 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BoBO - Botanic Garden and Botanical Museum Berlin Observations 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collections and observation data National Museum of Natural History Luxembourg 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Charles University Prague - Herbarium PRC 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lajitietokeskus/FinBIF - Notebook, general observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium specimens of Jardins botaniques and Conservatoire Botanique of Nancy (NCY) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular plant herbarium, The Arctic University Museum of Norway (TROM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TUR Vascular plant collections of the Turku University, Herbarium Fennoscandicum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZOBODAT (Zoological Botanical Database) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collections of Bioclass, school #179, Moscow 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Herbarium Horti Botanici Pisani (PI), Sistema Museale di Ateneo, Università di Pisa 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium Senckenbergianum (FR) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Kathryn Kalmbach Herbarium 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Vascular Plant Herbarium, Oslo (O) UiO 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Occurrence Data of Vascular Plants collected or compiled for the Flora of Bavaria 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium Berolinense, Berlin (B) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biodiversity4all Research-Grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Estonian Naturalists’ Society 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vascular Plant Herbarium, UiB 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TUL Herbarium: Tula Oblast collections of vascular plants 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium of the University of Coimbra (COI) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Botany 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tallinn Botanic Garden 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vascular Plant Herbarium: Herbarium Fennoscandicum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: United Herbaria of the University and ETH Zurich 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular plants from European Russia in the CSBG SB RAS Digital herbarium 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Norwegian Species Observation Service 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian Museum of Natural History Department of Botany 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Vienna, Institute for Botany - Herbarium WU 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Botanic Gardens, Kew - Herbarium Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Northern Illinois University Herbarium 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herbarium specimens (BERN-Herbarium) of Herbarium of the Botanical Garden of the University of Bern 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Meise Botanic Garden Herbarium (BR) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU)) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbario de la Facultad de Ciencias Biológicas de la Universidad Complutense de Madrid (MACB) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SANT Herbarium vascular plants collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Species recordings from the Danish National Portal Arter.dk 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Pl@ntNet observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Steiermärkisches Landesmuseum Joanneum - Herbarium GJO 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular plants in Danish coastal meadows 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MHA Herbarium: collections of vascular plants 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Moscow University Herbarium (MW) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Photographs of higher plants, mosses, fungi, lichens, and algae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Digitization of plant specimens from Rhoen and Vogelsberg (FLAD) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

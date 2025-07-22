@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="902c8fe7-8f38-45b0-854e-c324fed36303"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/cpnhcc</alternateIdentifier>
+        <alternateIdentifier>http://biocol.org/urn:lsid:biocol.org:col:15550</alternateIdentifier>
+        <alternateIdentifier>902c8fe7-8f38-45b0-854e-c324fed36303</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=plants</alternateIdentifier>
+        <title>Moscow University Herbarium (MW)</title>
+        <creator>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-07-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Moscow University Herbarium (MW) is the second largest herbarium in Russia after the Komarov Institute. Being available at https://plant.depo.msu.ru/, it is almost completely imaged either at 300 dpi for regular collections or at 600 dpi for type specimens. The herbarium is focused on the flora of temperate Eurasia with an emphasis on the flora of Russia. As of 1 November 2018, physical collections of MW Herbarium include 1,044,571 specimens (incl. 4.8K type specimens) representing 37,200 species and subspecies of vascular plants and 2,223 species and subspecies of bryophytes. Currently, MW holds the 63rd place in the world&amp;#39;s ranking (Thiers, 2019). Moscow University Herbarium preserve some important historical collections by G.F. Hoffmann, J.F. Ehrhart, C.B. Trinius, J.R. and J.G.A. Forsters, and their correspondents.</para><para>The Moscow University Herbarium added a millionth specimen to the collections in June 2016. An average annual growth of the collections is ca. 15,000 specimens, with an exceptional 22,013 specimens added to the herbarium in 2016. In 2017, we added 19,416 new accessions. Since 2005, major accessions originated from Eastern Europe, Siberia and Russian Far East, the Caucasus, and South Asia (vascular plants); Taimyr, Russian Far East, and North Caucasus (bryophytes).</para><para>The Moscow University Herbarium has gained budget for the digitisation of the collections within the Program of the National Depository Bank of Live Systems (Moscow Digital Herbarium Initiative), and ca. 970,000 specimens were scanned since May 2015. All records are published at https://plant.depo.msu.ru/, including JPG images and metadata required for indexing.</para><para>The number of georeferenced specimens with fully captured labels is constantly growing. Brief metadata (collector&amp;#39;s name and collection date) were added for 83% specimens in July 2018 to enable easy grouping of specimens prior to label capturing and georeferencing. As of September 2019, labels of 325,635 specimens are fully captured and 425,618 specimens are precisely georeferenced.</para><para>4,939 occurrences from Yakutia were georeferenced in March 2019 by the support of RFBR project &amp;#39;Sravnitel&amp;#39;nyj analiz zakonomernostej raznoobraziya drevesnyh i travyanistyh vidov kontinental&amp;#39;noj Azii&amp;#39; (# 19-54-53014).</para><para>5,140 occurrences from Mongolia were georeferenced in December 2020 by the support of RFBR project &amp;#39;Sravnitel&amp;#39;nyj analiz zakonomernostej raznoobraziya drevesnyh i travyanistyh vidov kontinental&amp;#39;noj Azii&amp;#39; (# 19-54-53014).</para><para>68,166 occurrences were georeferenced from March, 1 2019 to September, 24 2019 by the support of FinBIF project &amp;#39;Supporting the regular georeferencing of European Russia holdings in the Moscow Digital Herbarium&amp;#39; (Russia2019_14, see details at https://www.gbif.org/project/2dfnq4VJQxHVSoPZWykiCb/supporting-the-regular-georeferencing-of-european-russia-holdings-in-the-moscow-digital-herbarium). They include newly georeferenced records from Eastern European plain, western slope of the Urals and Northern Caucasus.</para><para>Moscow Digital Herbarium (MW and MHA herbaria online) is the largest Russian biodiversity database. It is fully available in GBIF. It is the primary source for the &amp;#34;Distribution Atlas of the Russian Flora&amp;#34; to be outworked in the Moscow University in due time. Moscow Digital Herbarium holds several regional portals like &amp;#34;Flora of Moscow&amp;#34; (https://moscow.depo.msu.ru/) for further stimulation of the digitisation efforts across Russian herbaria.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Moscow Digital Herbarium is the largest and the most actively growing biodiversity database in Russia.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://plant.depo.msu.ru/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://depo.msu.ru/ipt/archive.do?r=plants</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>PHYSICAL COLLECTION: Worldwide, but strong in the former U.S.S.R., especially European part (368,600 specimens), Caucasus (100,700), Crimea (32,700), Siberia and Russian Far East (165,500), and Central Asia and Kazakhstan (97,100); Mongolia (27,300); western and central Europe (40,500); other Asian countries (24,700); also Americas, Africa, Australia and Pacific; bryophytes (77,100 specimens), especially strong in Russia; modest collection of lichens (ca. 10,000 specimens). No fungi and algae.
+
+COUNTRY SCOPE: Currently, we hold the largest digitised herbarium collections from Russia (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=RU&amp;taxon_key=6), Ukraine (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=UA&amp;taxon_key=6), Mongolia (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=MN&amp;taxon_key=6), Georgia with Abkhazia and South Ossetia(https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=GE&amp;taxon_key=6), Azerbaijan (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=AZ&amp;taxon_key=6), Belarus (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=BY&amp;taxon_key=6), Moldova (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=MD&amp;taxon_key=6), Kazakhstan (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=KZ&amp;taxon_key=6), Kyrgyzstan (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=KG&amp;taxon_key=6), Uzbekistan (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=UZ&amp;taxon_key=6), Turkmenistan (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=TM&amp;taxon_key=6), and Tajikistan (https://www.gbif.org/occurrence/charts?basis_of_record=PRESERVED_SPECIMEN&amp;country=TJ&amp;taxon_key=6). Also, Moscow University Herbarium is the second largest hub of digitised herbarium collections from Armenia, Lithuania, Latvia and the third largest for Mali and Cyprus.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>84</northBoundingCoordinate>
+                    <southBoundingCoordinate>-70</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1739-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Vascular plants (899,750 specimens) are identified up to the species level. Only 3.2% specimens are lacking species names. All published bryophytes (78,059 specimens) are identified up to the species level. Names accepted in the collection are completely crossreferenced with Catalogue of Life in the automatic mode. Moscow Univeristy Herbarium are indexed in GBIF using names from Catalogue of Life.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                    <commonName>plants</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                    <commonName>vascular plants</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                    <commonName>mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                    <commonName>liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                    <commonName>hornworts</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Imaging of specimens is the modern trend in the herbarium management. Today, at least 64 herbaria have 1M+ specimens and at least eight herbaria have estimated their collections as 1M. Even in the larger herbaria mass digitisation is still not a common practice.
+In late 2014, the Moscow University Herbarium (MW) had received direct investment for digitisation within the grant #14-50-00029 from the Russian Science Foundation as part of the National Depository Bank of Live Systems Initiative launched by the Moscow State University. We employed new technical staff to facilitate further growth of the collections, intensified the collection management and 22,013 specimens were added in 2016 as a result.
+Having the stable budget for the next four years, we scanned 900K specimens at 300 dpi (TIFF + JPG) in 2015–2018, digitised 4.8K type specimens at 600 dpi, imaged 78K labels from bryophyte envelopes, and finally databased and georeferenced label data from as much specimens as possible until exhaustion of the budget.
+At the moment, we operate the eighth largest imaged digital herbarium in the world. The Moscow Digital Herbarium is the largest Russian biodiversity database. The Moscow Digital Herbarium publishes its data on the web portal of the National Depository Bank of Live Systems, a collaborative network of the Moscow University biological collections. Since October 2016, a fast public version of the botany portal with some functional limitations is available at http://plant.depo.msu.ru/open/.</para></purpose>
+        <maintenance>
+            <description>
+                <para>In 2017, we started data capturing from labels. To avoid mistakes and to make the first portion of label capturing easy, we did not enforce the operators to capture data from every single sheet. We asked the operators to avoid capturing data from labels with at least one unclear word or to tick any uncertain entries.</para>
+            </description>
+            <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>no ref</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Complete imaging of the Moscow University Herbarium with planetary scaners at 300 dpi. Consequent label capturing and georeferencing of all specimens.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Complete imaging of the Moscow University Herbarium with planetary scaners at 300 dpi.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="14-50-00029, Russia2019_14">
+                <title>National Depository Bank of Live Systems</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>EDITOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>PUBLISHER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexey</givenName>
+                    <surName>Seregin</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrey</givenName>
+                    <surName>Klyukvin</surName>
+                    </individualName>
+                    <role>PROGRAMMER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Oleg</givenName>
+                    <surName>Platko</surName>
+                    </individualName>
+                    <role>PROGRAMMER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Piotr</givenName>
+                    <surName>Kamensky</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Preparation
+
+Due to the long tradition of floristic research, MW consists of 11 independent regional collections of vascular plants: Eastern Europe, Asian Russia, Caucasus, Crimea, Middle Asia, Mongolia, Western Europe, other Asian countries, Africa, America, Australia &amp; Oceania. In 1992–2004, all specimens of MW were counted by species and regions and the records were updated annually, therefore, at the beginning of this project we knew that we had 38,355 taxa of vascular plants (including 36,289 identified species). Before scanning, we checked the taxonomy and basic synonymy. Beginning in April 2015, 5 staff and ca. 60 volunteers have barcoded 600K specimens and performed basic curation procedures.
+
+Technical issues of scanning
+
+Collections were scanned by a commercial partner using three to seven individual planetary A2 scanners with manual placing of specimens. Scanners were operated from late May to September 2015 with an average productivity of ca. 1K specimens per day
+per scanner. The basic file for each specimen has TIFF format, 300 dpi and ca. 60 MB size. A smaller copy has JPG format, 0.8 compression, 300 dpi and ca. 2.5 MB size. Several stages of computer processing without operator’s manual labor included: 90° rotation, cosmetic rotation to a right angle, cutting of a black background, barcode reading and file renaming, and JPG copy production.
+Metadata for each specimen were generated by a scanner operator, who searched for exact matches between species name and area code on a folder and in the database. After that all specimens from the folder received the same metadata. So, one by one all specimens were captured and indexed in the database with four fields: generic 4-digit code, taxon name, one of 30 area codes (21 in Eastern Europe and 9 in Asian Russia), barcode (ID).
+At the moment, we operate the eighth-largest digital herbarium in the world available at https://plant.depo.msu.ru/ and https://plant.depo.msu.ru/open/.</para>
+                </abstract>
+                <funding>
+                    <para>The Moscow University Herbarium (MW) received a grant “Scientific basis of the national biobank—depository of live systems“ (#14-50-00029) from Russian Science Foundation (RNF, 2014-2018).</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Worldwide vascular plants, but strong in the former U.S.S.R., Mongolia, Vietnam, Cyprus, Mali, and some other countries.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>See for the details: 
+Seregin A.P. Making the Russian flora visible: Fast digitisation of the Moscow University Herbarium (MW) in 2015 // Taxon. – 2016. – Vol. 65, № 1. – P. 205–207. – http://dx.doi.org/10.12705/651.29.
+Seregin A.P. Digital herbarium of Moscow State University: The largest Russian biodiversity database // Biology Bulletin. – 2017. – Vol. 44, № 6. – P. 584–590. – https://doi.org/10.1134/ S1062359017060103.
+Seregin A.P. The largest digital herbarium in Russia is now available online! // Taxon. – 2018. – Vol. 67 (2). – P. 463–467. – http://dx.doi.org/10.12705/672.34.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:45Z</dateStamp>
+                <citation>Seregin A (2025). Moscow University Herbarium (MW). Version 1.389. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/cpnhcc accessed via GBIF.org on 2025-07-08.</citation>
+                <bibliography>
+                <citation identifier="http://dx.doi.org/10.12705/651.29">Seregin A.P. Making the Russian flora visible: Fast digitisation of the Moscow University Herbarium (MW) in 2015 // Taxon. – 2016. – Vol. 65, № 1. – P. 205–207. – http://dx.doi.org/10.12705/651.29.</citation>
+                <citation identifier="https://doi.org/10.7868/S0002332917060042">Серегин А.П. Цифровой гербарий МГУ – крупнейшая российская база данных по биоразнообразию // Изв. РАН. Сер. биол. – 2017. – № 6. – С. 610–616. – https://doi.org/10.7868/S0002332917060042.</citation>
+                <citation identifier="https://istina.msu.ru/download/57848528/1ezepD:Zu7LoJhWgKt60Piz7r1CFTnUkno/">Серегин А.П. Гербарий Московского университета (MW) сегодня: фонды, онлайн доступ и научная работа // Бот. журн. – 2017. – Т. 102, № 3. – С. 281–308. (Рез. англ.).</citation>
+                <citation identifier="https://doi.org/10.1134/S1062359017060103">Seregin A.P. Digital herbarium of Moscow State University: The largest Russian biodiversity database // Biology Bulletin. – 2017. – Vol. 44, № 6. – P. 584–590. – https://doi.org/10.1134/S1062359017060103</citation>
+                <citation identifier="http://dx.doi.org/10.12705/672.34">Seregin A.P. The largest digital herbarium in Russia is now available online! // Taxon. – 2018. – Vol. 67 (2). – P. 463–467. - http://dx.doi.org/10.12705/672.34.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://pp.userapi.com/c840623/v840623264/7b76/PKjskpgbfe4.jpg</resourceLogoUrl>
+                <collection>
+                    
+                    <collectionIdentifier>http://biocol.org/urn:lsid:biocol.org:col:15550</collectionIdentifier>
+                    <collectionName>Moscow University Herbarium (MW)</collectionName>
+                </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Mounted herbarium specimens of vascular plants</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="100">899,750</jgtiUnits>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Envelopes with bryophytes</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="500">78,000</jgtiUnits>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Unmounted herbarium specimens (historical collections)</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="5,000">56,000</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

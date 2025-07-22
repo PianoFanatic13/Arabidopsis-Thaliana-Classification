@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="453e3294-97ef-4e1c-87cb-1ef7c5351d8e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/c9jhs4</alternateIdentifier>
+        <alternateIdentifier>https://midwestherbaria.org/portal/collections/misc/collprofiles.php?collid=161</alternateIdentifier>
+        <title>Northern Illinois University Herbarium</title>
+        <creator>
+            <organizationName>Consortium of Midwest Herbaria</organizationName>
+            <electronicMailAddress>seinetAdmin@asu.edu</electronicMailAddress>
+            <onlineUrl>https://midwestherbaria.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Consortium of Midwest Herbaria</organizationName>
+            <electronicMailAddress>seinetAdmin@asu.edu</electronicMailAddress>
+            <onlineUrl>https://midwestherbaria.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Paul</givenName>
+                <surName>Sørensen</surName>
+            </individualName>
+            <positionName>Botanist, Professor Emeritus and former curator</positionName>
+            <electronicMailAddress>psorensen@niu.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Mel</givenName>
+                <surName>Duvall</surName>
+            </individualName>
+            <positionName>Curator and Professor Emeritus</positionName>
+            <electronicMailAddress>mel-duvall@niu.edu</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-8143-9442</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-06-03
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The herbarium at NIU is an internationally recognized systematic collection, initiated in the 1960s and enlarged significantly during the 1970s to the present. Holdings presently total about 23,000 specimens of vascular plants plus an additional 8000 bryophytes. A large number of the bryophytes in the collection (about 6000 specimens) are on permanent loan to MO (Missouri Botanic Garden).
+Special collections include a definitive collection of the genus Dahlia, which contains holotypes and isotypes plus a thoroughly documented array of hybrids between authenticated wild species. A second important collection is of Arbutus that also includes type material. The troublesome genus Agrimonia is more completely documented at DEK than at any other herbarium in the world. In Zygophyllaceae, there is a substantial collection of species of Guaiacum, for which sequenced marker loci are indicated. The collection also emphasizes grassland species and those for which genetic resources, especially complete plastome sequences, are available.
+DEK presently maintains exchange relationships with more than 26 domestic and 6 foreign herbaria. As a consequence, coverage, while emphasizing the flora of Illinois, is worldwide.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://midwestherbaria.org/portal/content/dwca/DEK_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>Northern Illinois University Herbarium</organizationName>
+            <electronicMailAddress>psorensen@niu.edu</electronicMailAddress>
+            <onlineUrl>https://clas.niu.edu/clas/biology/campus-experiences/facilities/herbarium.shtml</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:45Z</dateStamp>
+                <citation>Northern Illinois University (2025). Northern Illinois University Herbarium. Occurrence dataset https://doi.org/10.15468/c9jhs4 accessed via GBIF.org on 2025-07-08.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

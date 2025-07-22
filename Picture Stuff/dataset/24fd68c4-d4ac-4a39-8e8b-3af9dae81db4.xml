@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="24fd68c4-d4ac-4a39-8e8b-3af9dae81db4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/5hqb2z</alternateIdentifier>
+        <title>University of Tartu Natural History Museum and Botanical Garden Botanical Collections</title>
+        <creator>
+            <individualName>
+                <givenName>Kai</givenName>
+                <surName>Vellak</surName>
+            </individualName>
+            <positionName>Head of the botanical and mycological museum</positionName>
+            <electronicMailAddress>kai.vellak@ut.ee</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kai</givenName>
+                <surName>Vellak</surName>
+            </individualName>
+            <positionName>Head of the botanical and mycological museum</positionName>
+            <electronicMailAddress>kai.vellak@ut.ee</electronicMailAddress>
+        </metadataProvider>
+        <language>ENGLISH</language>
+        <abstract>
+            Botanical and mycological herbarium (acronym TU) is the oldest herbarium in Estonia, also the largest, founded in 1802. The botany collection holds 282 989 specimens of vascular plants, bryophytes and macroalgae, including type specimens of 51 taxa, these numbers describe the collections in 2014.
+
+The oldest dated herbarium sheet in the collection comes from 1819, the oldest dated herbarium sheet collected from Estonian grounds comes from 1834. The materials have mostly been collected by the staff of the University of Tartu, supplementing the collections has been a part of botanical research. The collections have grown by donations from private collections as well. The Herbarium Generale holds specimens from all over the world, many of these have been taken in by exchange from other herbaria. Today collections usually grow when the materials from expeditions and fieldwork are taken in, less by exchanges or donations. Of the Estonian herbariums, the TU keeps the largest collection of botanical materials from abroad (mostly from Russia, but also from Australia, e.g.).
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://natmuseum.ut.ee/en/natmuseum-botanical-collections</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://s3.hpc.ut.ee/plutof-public/original/2c2e9c83-80b8-43fc-bda1-db76d0c7d209.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <individualName>
+                <givenName>Kai</givenName>
+                <surName>Vellak</surName>
+            </individualName>
+            <positionName>Head of the botanical and mycological museum</positionName>
+            <electronicMailAddress>kai.vellak@ut.ee</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Ülle</givenName>
+                <surName>Reier</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>ulle.reier@ut.ee</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Kaili</givenName>
+                <surName>Orav</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>kaili.orav@ut.ee</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Mari</givenName>
+                <surName>Müür</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>mari.muur@ut.ee</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Tiiu</givenName>
+                <surName>Kupper</surName>
+            </individualName>
+            <positionName>Curator</positionName>
+            <electronicMailAddress>tiiu.kupper@ut.ee</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5821-0738</userId>
+        </contact>
+
+            <project >
+                <title></title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:41Z</dateStamp>
+                <citation>Vellak K. University of Tartu Natural History Museum and Botanical Garden Botanical Collections. University of Tartu, Natural History Museum and Botanical Garden. Occurrence dataset https://doi.org/10.15468/5hqb2z accessed via GBIF.org on 2025-07-08.</citation>
+                <resourceLogoUrl>https://s3.hpc.ut.ee/plutof-public/original/3b7dcd5a-8030-4672-9562-36b2d6e51deb.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

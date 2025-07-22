@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1c334170-7ed1-11df-8c4a-0800200c9a66"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/dgbpla</alternateIdentifier>
+        <alternateIdentifier>http://193.144.34.193:8080/ipt/resource?r=sant</alternateIdentifier>
+        <alternateIdentifier>1c334170-7ed1-11df-8c4a-0800200c9a66</alternateIdentifier>
+        <alternateIdentifier>222</alternateIdentifier>
+        <title>SANT Herbarium vascular plants collection</title>
+        <creator>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>García San León</surName>
+            </individualName>
+            <organizationName>Universidade de Santiago de Compostela</organizationName>
+            <positionName>Database keeper, digitization and loans control</positionName>
+            <address>
+                <deliveryPoint>Facultade de Farmacia, Laboratorio de Botánica</deliveryPoint>
+                <city>Santiago de Compostela</city>
+                <administrativeArea>Galicia</administrativeArea>
+                <postalCode>15782</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>+34 881815022</phone>
+            <electronicMailAddress>sant.herbarium@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.usc.es/herbario</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>García San León</surName>
+            </individualName>
+            <organizationName>Universidade de Santiago de Compostela</organizationName>
+            <positionName>Database keeper, digitization and loans control</positionName>
+            <address>
+                <deliveryPoint>Facultade de Farmacia, Laboratorio de Botánica</deliveryPoint>
+                <city>Santiago de Compostela</city>
+                <administrativeArea>Galicia</administrativeArea>
+                <postalCode>15782</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>+34 881815022</phone>
+            <electronicMailAddress>sant.herbarium@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.usc.es/herbario</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>SANT</givenName>
+                <surName>Herbarium</surName>
+            </individualName>
+            <address>
+                <city>Santiago de Compostela</city>
+                <administrativeArea>Galicia</administrativeArea>
+                <postalCode>15782</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>sant.herbarium@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.usc.es/herbario</onlineUrl>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2021-08-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Vascular plants collection at SANT Herbarium
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.usc.es/herbario</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://193.144.42.51/ipt/archive.do?r=sant</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Mainly Iberian Peninsula (specially NW corner), Balearic Islands and Macaronesia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-18.96</westBoundingCoordinate>
+                    <eastBoundingCoordinate>5.08</eastBoundingCoordinate>
+                    <northBoundingCoordinate>44.11</northBoundingCoordinate>
+                    <southBoundingCoordinate>26.64</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1819-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Mostly identified to specific or infraspecific ranks</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Superphylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>García San León</surName>
+            </individualName>
+            <organizationName>Universidade de Santiago de Compostela</organizationName>
+            <positionName>Database keeper, digitization and loans control</positionName>
+            <address>
+                <deliveryPoint>Facultade de Farmacia, Laboratorio de Botánica</deliveryPoint>
+                <city>Santiago de Compostela</city>
+                <administrativeArea>Galicia</administrativeArea>
+                <postalCode>15782</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>+34 881815022</phone>
+            <electronicMailAddress>sant.herbarium@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.usc.es/herbario</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:45Z</dateStamp>
+                <citation>García San León D (2021). SANT Herbarium vascular plants collection. Herbario SANT, Universidade de Santiago de Compostela. Occurrence dataset https://doi.org/10.15468/dgbpla accessed via GBIF.org on 2025-07-08.</citation>
+                <collection>
+                    
+                    
+                    <collectionName>Colección SANT, Herbario SANT, Universidade de Santiago de Compostela</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>sheets</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="100">73,000</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

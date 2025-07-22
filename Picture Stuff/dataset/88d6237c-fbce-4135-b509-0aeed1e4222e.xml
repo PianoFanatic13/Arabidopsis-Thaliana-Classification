@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="88d6237c-fbce-4135-b509-0aeed1e4222e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ft0c5f</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=hoiland_images</alternateIdentifier>
+        <alternateIdentifier>88d6237c-fbce-4135-b509-0aeed1e4222e</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=hoiland_images</alternateIdentifier>
+        <title>Photographs of higher plants, mosses, fungi, lichens, and algae</title>
+        <creator>
+            <individualName>
+                <givenName>Klaus</givenName>
+                <surName>Høiland</surName>
+            </individualName>
+            <organizationName>UIO, Department of Biosciences</organizationName>
+            <positionName>Professor emeritus</positionName>
+            <address>
+                <deliveryPoint>Bygdøy allé 75 A</deliveryPoint>
+                <city>Oslo</city>
+                <postalCode>0268</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 92656366</phone>
+            <electronicMailAddress>klaus.hoiland@ibv.uio.no</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Klaus</givenName>
+                <surName>Høiland</surName>
+            </individualName>
+            <organizationName>UIO, Department of Biosciences</organizationName>
+            <positionName>Professor emeritus</positionName>
+            <address>
+                <deliveryPoint>Bygdøy allé 75 A</deliveryPoint>
+                <city>Oslo</city>
+                <postalCode>0268</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 92656366</phone>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Vidar</givenName>
+                <surName>Bakken</surName>
+            </individualName>
+            <electronicMailAddress>vidar.bakken@usit.uio.no</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            This archive encompasses photographs of vascular plants, mosses, algae, lichens, fungi, and some other organisms previously regarded as “plants”. All pictures are photographed by Klaus Høiland in Norway or abroad. All people are free to use these photographs if the photographer is mentioned, and the picture is not intended for commercial purposes. For personal security all pictures of people, e.g. as measuring standard by some plants, are blurred. 
+The vascular plants are sorted by families following the systematics presented by Angiosperm Phylogeny Website, version 14., Missouri Botanical Garden, (http://www.mobot.org/MOBOT/research/APweb/). The other organisms are presented by orders (lichen and fungi) or phyla (mosses and other organisms, except a few prokaryotes that are grouped together). Inside these categories the names normally follow the alphabet of the scientific names, except in cases were these names newly have been changed for taxonomic or nomenclatorial reasons.
+The presentation of the pictures is given in the following notation:
+Scientific name of the species (Taxonomic category, either family, order or phylum) NORWEGIAN NAME, state in Norway and sometimes special features for the actual photography (locality where the picture has been photographed)
+For instance:
+Hepatica nobilis (Ranunculaceae) BLÅVEIS, wild, growing place (N, Oslo, Bygdøy)
+Dracaena draco (Asparagaceae) DRAGEBLODSTRE, exotic (Spain, Tenerife, Icod)
+Amanita muscaria (Agaricales) RØD FLUESOPP, wild (N, Halden, Frediksten)
+Buxbaumia viridis (Bryophyta) GRØNNSKO, wild, red list (N, Oslo, Lillomarka, Styggedalen)
+The scientific names follow the Norwegian Biodiversity Information Centre (Artsdatabanken).  Exotic organisms follow names found in Store Norske Leksikon or other reliable internet sources.
+The Norwegian names also follow those given by the Norwegian Biodiversity Information Centre (Artsdatabanken). Norwegian names for exotic plants are found in Store Norske Leksikon or other reliable internet sources.
+The state in Norway has following representation:
+wild: The organisms are natural (spontaneous) in Norway. For vascular plants this notation also includes weeds that have been in Norway before 1800, together with other obviously introduced plants, but which have been a part of our flora before 1800 (following the view by Norwegian Biodiversity Information Centre (Artsdatabanken)). Organisms appearing after 1800, but arrived Norway by natural ways, e.g. sea currents and birds, are similarly regarded as wild.
+introduced: This means organisms introduced by man, either involuntarily (as several weeds following import of goods or by vehicles or ships) or by purpose (as garden plants, alien forest trees, vegetables, cereals). Included are also parasites introduced by imported vectors (plants or animals). They must have been registered as established in the nature of Norway after 1800, either by specimens in museums or mentioned in literature. For some alien forest trees, where we know the history of introduction, the age is sometimes set before 1800.
+wild and introduced: This state means that the organisms originally were wild, but has been re-introduced by man. This notation is most actual where the wild occurrences has been extinct (or nearly so), but has be re-introduced afterwards.
+wild, ephemeral: This means organisms considered as wild, but unstable, appearing a short time on its localities, often disappearing and sometimes re-establishing. “Hello goodbye”-organisms.
+wild, vanished: Originally wild organisms that have been extinct for a long time. They will have the category “regionally extinct” RE on the red list.
+red list: The organisms are included in the latest version of the red list, Rødlista 2015, provided by the Norwegian Biodiversity Information Centre (Artsdatabanken) (encompassing the categories CR, EN, VU, NT, and DD, but not RE).
+problem: This indicates an introduced organism that is a problem, usually an invasive species with high ecological impact. With few exceptions only species with very high or high risk in the latest version of Fremmedartslista (2018) provided by the Norwegian Biodiversity Information Centre (Artsdatabanken) are mentioned as problem. 
+exotic: Organisms not occurring in Norwegian nature. They are either photographed abroad or in Norway as cultivated specimens. Such cultivated specimens cannot be considered as introduced according to the context used here, since they are not spreading into Norwegian nature.
+Sometimes special features of the picture is mentioned, e.g. if it shows the growing place, special characteristics as fruits, seeds, female or male structures, accompanying animals and so forth.
+In parenthesis the place where the photograph is taken is mentioned: land (N &amp;#61; Norway, S &amp;#61; Sweden, other lands unabbreviated), community/landscape, locality etc. For threatened and charismatic species it is stated “locality not given” for conservation reasons.
+        </abstract>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=hoiland_images</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Photographs taken mainly in Norway with Svalbard, but also Sweden, Finland, Denmark, Iceland, Spain with Canary Islands, Portugal (Madeira), Greece (Crete), UK, The Netherlands, Germany, France, Czech Republic, Estonia. Some pictures outside rectangle from Zimbabwe, Malawi, Thailand, Canada (British Columbia).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-28.125</westBoundingCoordinate>
+                    <eastBoundingCoordinate>39.375</eastBoundingCoordinate>
+                    <northBoundingCoordinate>82.495</northBoundingCoordinate>
+                    <southBoundingCoordinate>24.527</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1969-07-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-05-10
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Higher plants, mosses, algae, lichens, fungi, prokaryotes</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Lycophyta</taxonRankValue>
+                    <commonName>Clubmosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Pterophyta</taxonRankValue>
+                    <commonName>Ferns and horsetails</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cycadophyta</taxonRankValue>
+                    <commonName>Cycads</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ginkgophyta</taxonRankValue>
+                    <commonName>Ginkgo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Coniferophyta</taxonRankValue>
+                    <commonName>Conifers</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Gnetophyta</taxonRankValue>
+                    <commonName>Gnetophytes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthophyta</taxonRankValue>
+                    <commonName>Flowering plants</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerophyta</taxonRankValue>
+                    <commonName>Hornworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                    <commonName>Liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                    <commonName>Mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Charophyta</taxonRankValue>
+                    <commonName>Stoneworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chlorophyta</taxonRankValue>
+                    <commonName>Green algae</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Rhodophyta</taxonRankValue>
+                    <commonName>Red algae</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Phaeophyta</taxonRankValue>
+                    <commonName>Brown algae</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chrysophyta</taxonRankValue>
+                    <commonName>Golden algae</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bacillariophyta</taxonRankValue>
+                    <commonName>Diatoms</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Oomycota</taxonRankValue>
+                    <commonName>Egg fungi</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chytridiomycota</taxonRankValue>
+                    <commonName>Chytrids</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Zoopgagomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Mucoromycota</taxonRankValue>
+                    <commonName>Pinmoulds</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ascomycota</taxonRankValue>
+                    <commonName>Sac fungi</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Basidiomycota</taxonRankValue>
+                    <commonName>Club fungi</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Myxomycota</taxonRankValue>
+                    <commonName>Slime moulds</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cercozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Domain</taxonRankName>
+                    <taxonRankValue>Eubacteria</taxonRankValue>
+                    <commonName>Bacteria</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Klaus</givenName>
+                <surName>Høiland</surName>
+            </individualName>
+            <organizationName>UIO, Department of Biosciences</organizationName>
+            <positionName>Professor emeritus</positionName>
+            <address>
+                <deliveryPoint>Bygdøy allé 75 A</deliveryPoint>
+                <city>Oslo</city>
+                <postalCode>0268</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 92656366</phone>
+            <electronicMailAddress>klaus.hoiland@ibv.uio.no</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:46Z</dateStamp>
+                <citation>Høiland K (2022). Photographs of higher plants, mosses, fungi, lichens, and algae. Version 1.17. University of Oslo. Occurrence dataset https://doi.org/10.15468/ft0c5f accessed via GBIF.org on 2025-07-08.</citation>
+                <resourceLogoUrl>http://upload.wikimedia.org/wikipedia/commons/f/f4/UiO_logo.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

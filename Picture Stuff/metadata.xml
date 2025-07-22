@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e15610de-4ae2-4d31-8b98-8cdf860ae9e3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <title>GBIF Occurrence Download 0107739-250525065834625</title>
+        <creator>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2025-07-08
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            A dataset containing all occurrences available in GBIF matching the query:
+{
+  "and" : [
+    "Continent is Europe",
+    "HasCoordinate is true",
+    "HasGeospatialIssue is false",
+    "MediaType is Image",
+    "TaxonKey is Arabidopsis thaliana (L.) Heynh."
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+5 records from University of Tartu Natural History Museum and Botanical Garden Botanical Collections
+332 records from Vascular plant herbarium TRH, NTNU University Museum
+8 records from Herbarium Dresdense
+110 records from NABU|naturgucker
+126 records from Herbarium SLTC-N2
+1 records from Images and observations of mostly edible plants in Stephen Barstow’s Edible Garden in Norway, taken between 2005 and 2014
+1 records from Horti sicci by Siiri Kõljalg
+5 records from Natural History Museum, Vienna - Herbarium W
+1 records from BoBO - Botanic Garden and Botanical Museum Berlin Observations
+20 records from Collections and observation data National Museum of Natural History Luxembourg
+8 records from Charles University Prague - Herbarium PRC
+2 records from Lajitietokeskus/FinBIF - Notebook, general observations
+2 records from Herbarium specimens of Jardins botaniques and Conservatoire Botanique of Nancy (NCY)
+52 records from Vascular plant herbarium, The Arctic University Museum of Norway (TROM)
+4 records from TUR Vascular plant collections of the Turku University, Herbarium Fennoscandicum
+20 records from ZOBODAT (Zoological Botanical Database)
+2 records from Collections of Bioclass, school #179, Moscow
+65 records from Herbarium Horti Botanici Pisani (PI), Sistema Museale di Ateneo, Università di Pisa
+16 records from Herbarium Senckenbergianum (FR)
+7487 records from Observation.org, Nature data from around the World
+1 records from Kathryn Kalmbach Herbarium
+691 records from Vascular Plant Herbarium, Oslo (O) UiO
+2 records from Occurrence Data of Vascular Plants collected or compiled for the Flora of Bavaria
+48 records from Herbarium Berolinense, Berlin (B)
+1 records from Biodiversity4all Research-Grade Observations
+14 records from Estonian Naturalists’ Society
+146 records from Vascular Plant Herbarium, UiB
+4 records from TUL Herbarium: Tula Oblast collections of vascular plants
+5 records from Herbarium of the University of Coimbra (COI)
+347 records from Naturalis Biodiversity Center (NL) - Botany
+5 records from Tallinn Botanic Garden
+701 records from Vascular Plant Herbarium: Herbarium Fennoscandicum
+294 records from Natural History Museum (London) Collection Specimens
+351 records from The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+67 records from United Herbaria of the University and ETH Zurich
+6 records from Vascular plants from European Russia in the CSBG SB RAS Digital herbarium
+274 records from Norwegian Species Observation Service
+29 records from Estonian Museum of Natural History Department of Botany
+43 records from University of Vienna, Institute for Botany - Herbarium WU
+1 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+100 records from Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium
+130 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+2 records from Northern Illinois University Herbarium
+14 records from Herbarium specimens (BERN-Herbarium) of Herbarium of the Botanical Garden of the University of Bern
+280 records from Meise Botanic Garden Herbarium (BR)
+1 records from Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+1 records from Herbario de la Facultad de Ciencias Biológicas de la Universidad Complutense de Madrid (MACB)
+2 records from SANT Herbarium vascular plants collection
+104 records from Species recordings from the Danish National Portal Arter.dk
+263 records from Pl@ntNet observations
+28 records from Steiermärkisches Landesmuseum Joanneum - Herbarium GJO
+1 records from Vascular plants in Danish coastal meadows
+49 records from MHA Herbarium: collections of vascular plants
+298 records from Moscow University Herbarium (MW)
+1 records from Photographs of higher plants, mosses, fungi, lichens, and algae
+5076 records from iNaturalist Research-grade Observations
+5 records from Digitization of plant specimens from Rhoen and Vogelsberg (FLAD)
+
+        </abstract>
+        <contact>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:46Z</dateStamp>
+                <citation identifier="0107739-250525065834625">GBIF Occurrence Download 0107739-250525065834625</citation>
+                <physical>
+                    <objectName>Darwin Core Archive</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Darwin Core Archive</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://api.gbif.org/v1/occurrence/download/request/0107739-250525065834625.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

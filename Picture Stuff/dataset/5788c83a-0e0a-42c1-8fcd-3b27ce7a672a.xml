@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5788c83a-0e0a-42c1-8fcd-3b27ce7a672a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ca08cm</alternateIdentifier>
+        <alternateIdentifier>5788c83a-0e0a-42c1-8fcd-3b27ce7a672a</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=tula</alternateIdentifier>
+        <title>TUL Herbarium: Tula Oblast collections of vascular plants</title>
+        <creator>
+            <individualName>
+                <givenName>Tatyana</givenName>
+                <surName>Svetasheva</surName>
+            </individualName>
+            <organizationName>Tula State Lev Tolstoy Pedagogical University</organizationName>
+            <positionName>-</positionName>
+            <address>
+                <deliveryPoint>prospekt Lenina, 125</deliveryPoint>
+                <city>Tula</city>
+                <administrativeArea>Tula Oblast</administrativeArea>
+                <postalCode>300026</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+79534392459</phone>
+            <electronicMailAddress>foxtail_svett@mail.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-06-30
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>TUL Herbarium presents collections from Tula Oblast stored at the Tula State Lev Tolstoy Pedagogical University, Russia, which is an educational and scientific institution that supports various types of scientific activities, including research on biodiversity and nature conservation. The university is a holder of some biological collections, such as herbarium of vascular plants, mosses and fungi collected mainly throughout Tula Oblast and from adjacent regions.</para><para>The collections of vascular plants (10,098 specimens) were imaged during period December 2019 — January 2023 under the joint grant 19-44-710002 r_a &amp;#34;Assessment of the diversity and visualization of the flora of the Tula region using modern information technologies&amp;#34; (supervisor T.Yu. Svetasheva, TulSPU).   Databasing and georeferencing of the specimens from the TUL Herbarium was performed by the staff members of the Tula State Lev Tolstoy Pedagogical University and Tula Local History Museum. Digital collections of the TUL Herbarium are fully available in the Moscow Digital Herbarium (https://tula.depo.msu.ru//) and GBIF (https://doi.org/10.15468/ca08cm).</para><para>TUL is an acronym of the Herbarium of the Tula State Lev Tolstoy Pedagogical University (TSPU), Russia, which is the main custodian of the herbarium collections from Tula Oblast and one of the oldest in Tula institutions with the natural history collections. The acronym was assigned to the Herbarium in 2019 (New York Botanical Garden 2019).</para><para>Tula State Lev Tolstoy Pedagogical University was founded on 19 September 1938 as a federal institution of higher education with the name Tula State Pedagogical Institute. On 18 July 1958, it was named after Lev Tolstoy. On 24 December 1994, it was awarded the status of State Pedagogical University.</para><para>The collecting of plant specimens began in the 1960s, when the Faculty of Chemistry and Biology was launched at the Tula State Pedagogical Institute (TSPI). The first collections were made by the students during their summer field practices, as well as from individual assignments on the Botany course. The first herbarium specimens have non-standard appearance and size, since the paper for the specimens was chosen by students at random and it was often cut out manually and then covered with tracing paper attached on the left edge to preserve dry plants. There are ca. 100 those non-standard sheets from the 1960s.</para><para>In the 1970s, institute students were the main contributors to the herbarium collections. The specimens acquired a bit more standardised appearance and constant size of sheets 25 x 34 cm, but still differed from the 28 x 42 cm size accepted in the major Russian herbaria. The majority of specimens were supplied with a standard pre-printed label, which included the heading of Tula State Lev Tolstoy Pedagogical Institute in Russian (Fig. 1). With 344 specimens, the total number of collections of 1970s has increased in comparison with the 1960s by about 3.5 times. It is noteworthy that, amongst these old sheets, there are specimens collected by students who later became teachers at the Tula State Pedagogical University and some of them are still working there.</para><para>The second half of 1980s became a period of important changes in the scientific life of TSPI. By 1986, the herbarium collection of the Botany Department consisted of several hundred sheets and continued to grow quickly. There was no special hall or even a special cupboard for herbarium storage, so huge piles of specimens were kept just in the labs and staff workrooms.</para><para>In 1987, the Botany Department was headed by Professor Lyudmila Fedorovna Tararina (Fig. 2). She initiated the organisation of the scientific herbarium, convinced the administration to provide a room for herbarium storage and equipped it with several custom-made cupboards (Sheremetyeva 2005). In addition, she brought a remarkable feature to the general outlook of our herbarium sheets by ordering a supply of pink paper (30 x 45 cm) for mounting the specimens (Fig. 3).</para><para>The first curator of the Herbarium in 1987 was Irina Sergeevna Sheremetyeva (Fig. 4), who just at that time started to teach Botany in TSPU and work under her PhD thesis &amp;#34;Flora of Tula Oblast&amp;#34; (Sheremetyeva 1999). The formal foundation of the herbarium gave a powerful impulse to active botanical research. In 1987, 1,368 specimens were collected in a single year, a threefold increase compared to all previous collections. This number includes scientific collections from various districts of Tula Oblast, as well as student&amp;#39;s collections made for the scientific herbarium.</para><para>In 1988, a large plant collection of Alexey Ivanovich Alyushin (1897–1987) consisting of 2,104 specimens was gifted by his relatives to the Herbarium. Alyushin was a school teacher and skilled naturalist, who especially loved Botany. In 1941–1945, he also worked at the Tula Local History Museum (Lakomov and Svetasheva 2005) (Fig. 5). He intensively investigated the flora of Tula Oblast and made an outstanding collection of vascular plants. His collections are shared by three Herbaria at present – TUL (2,104 specimens), Tula Local History Museum (ca. 1,000) and MW (297). Alyushin published two popular books about plants of Tula Oblast (Alyushin 1975, Alyushin 1982).</para><para>Within Alyushin&amp;#39;s collections stored in the TUL Herbarium, there are four specimens of Konstantin Semenovich Dubensky. Dubensky was a teacher of Natural Science at the Tula Real School and Women&amp;#39;s Gymnasium in the 1900s–1920s (Fig. 6). He conducted biological excursions in nature and collected plants. His major collections are preserved in the Tula Local History Museum.</para><para>Probably, at the same time, the Herbarium received 13 specimens of plants collected by the botanist V.A. Arsenyev in 1931. Unfortunately, the exact information about their origin is unknown.</para><para>The period 1987–1999 became the most productive time for the accumulation of plant specimens in the TUL Herbarium (ca. 5,000 specimens). Several scientific research activities, based on intensive collection expeditions across Tula Oblast, were completed at that time, like &amp;#34;Flora of Tula Oblast&amp;#34; (Sheremetyeva 1999), &amp;#34;Adventive flora of Tula Oblast&amp;#34; (Khoroon 1999) and &amp;#34;Register of vegetation cover of Tula Oblast&amp;#34; (unpublished scientific report by L.F. Tararina and I.S. Sheremetyeva). A.V. Shcherbakov from Lomonosov Moscow State University made a large collection of aquatic plants (322 specimens) in line with the preparation of the &amp;#34;Atlas of flora of the Tula Oblast water reservoirs&amp;#34; (Shcherbakov 1999) and habilitation thesis &amp;#34;Hydrophilic flora of vascular plants as a model object for inventory and analysis of flora: the example of the Tula and neighboring regions&amp;#34; (Shcherbakov 2011). Large collections on the flora of Yasnaya Polyana Museum-Estate were made by E.G. Balashova, T.Yu. Svetasheva and I.L. Dorokhina for their master&amp;#39;s theses (782 specimens).</para><para>In the 2000s, the Herbarium was supplemented with ca. 660 specimens mainly due to a series of works devoted to the study of protected areas of Tula Oblast (1999–2005, under L.F. Tararina) and the preparation of the &amp;#34;Red Data Book: Specially Protected Natural Areas of Tula Oblast&amp;#34; (Tararina et al. 2007) and &amp;#34;Red Data Book of Tula Oblast: Plants and Fungi&amp;#34; (Shcherbakov 2010). Therefore, a significant part of those collections includes specimens of rare and threatened plants. The standard regional checklist, entitled &amp;#34;Synopsis of the flora of vascular plants of Tula Oblast&amp;#34;, was published upon thorough study of available collections and vast literature (Sheremetyeva et al. 2008).</para><para>After 2010, the Herbarium continued to be filled mainly by the collections of students, but their collections were transferred to the educational collection, which is used during lab classes and is not part of the Herbarium. However, in 2018–2019, the TUL Herbarium was replenished with recently-collected specimens due to the preparation of the second edition of the regional &amp;#34;Red Data Book&amp;#34; and monitoring of the protected natural areas (Sheremetyeva and Svetasheva 2019, Svetasheva and Sheremetyeva 2019, Svetasheva et al. 2019). It should be noted that, since the 2000s, the Tula scientists began to form collections of the other groups, for example, fungi, lichens and mosses. Gradually, by 2019, the TUL Herbarium represents a significant base of the Tula Oblast biodiversity, including ca. 10,000 specimens of vascular plants, ca. 1,000 specimens of bryophytes and ca. 2,000 specimens of fungi and lichens.</para><para>Today, the Herbarium occupies one room (ca. 25 m2) in the building of the Faculty of Natural Sciences of Tula State Lev Tolstoy Pedagogical University located on 125, Lenina Prospect, in Tula. There is no special regular staff in the TUL Herbarium.</para><para>At the end of 2018, Lomonosov Moscow State University, which also houses some plant collections from Tula Oblast, suggested to combine efforts to digitise the entire collection of the Tula flora and place the obtained data on the Internet using a platform of the Moscow Digital Herbarium. The created project &amp;#34;Diversity assessment and visualisation of the Tula Oblast flora using modern data technologies&amp;#34; has been supported by RFBR and Tula Oblast Goverment and this has brought the Herbarium to a higher level. In 2019, the acronym TUL was assigned to the Herbarium of Tula State Lev Tolstoy University after its registration in Index Herbariorum. By the end of the project in 2023, TUL Herbarium collections of vascular plants were fully digitised, georeferenced and published in the Moscow Digital Herbarium and GBIF.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://plant.depo.msu.ru</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://depo.msu.ru/ipt/archive.do?r=tula</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Tula Oblast is located in the Central Federal District of Russia, covering an area of 25,700 km2. It borders Moscow Oblast in the north, Ryazan Oblast in the east, Lipetsk Oblast in the southeast, Oryol Oblast in the southwest and Kaluga Oblast in the west. The climate is moderate continental, with precipitation declining from 575 mm in the northwest to 470 mm in the southeast, average July temperature is about +19...+20°C and average January temperature is −10...−9°C.
+
+Vegetation of Tula Oblast includes zones of broadleaved forests in the central part, forest-steppe in the south and east and a narrow strip of the ecotone subtaiga zone in the west and north. The combination of three vegetation zones contributes to the significant diversity of the flora, which includes both northern and southern elements.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>35.9</westBoundingCoordinate>
+                    <eastBoundingCoordinate>39</eastBoundingCoordinate>
+                    <northBoundingCoordinate>54.9</northBoundingCoordinate>
+                    <southBoundingCoordinate>52.9</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1950-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7 (926) 369-9935</phone>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+        </contact>
+
+            <project id="N-Eurasia-Russia2020-W-Urals">
+                <title>West of Urals 2020 (N-Eurasia-Russia2020-W-Urals) &amp; Diversity assessment and visualization of the Tula Oblast flora using modern data technologies (19-44-710002)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Tatyana</givenName>
+                    <surName>Svetasheva</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>Biodiversity conservation is an urgent task for mankind. In the Tula Oblast characterized by a highly developed industry, a high percentage of land development and a lack of protected natural areas, this environmental challenge is particularly acute. The project is aimed at the inventory of biodiversity (i.e. diversity of vascular plants of Tula Oblast) at a fundamentally new level. First time for the regional level text database and GIS-module with geolocations will compliment the library of high quality images. The goal of the project is to assess the actual diversity and spatial structure of the flora of the Tula region by combining various data sources on a single platform, visualizing all the available information by digitizing data and creating a multifunctional electronic resource with open access. The main scientific idea is to make the Tula flora visible to the entire world community, and first of all, to specialists working in the field of studying and preserving biodiversity, solving problems of nature conservation at all levels up to global. To do this, it is supposed to do the following: 1) combine the data of 5 herbarium collections made in the region; 2) scan the entire regional herbarium; 3) supplement the materials with photographs of plants in nature; 3) create a database of labels; 4) establish the geo-referencing of the finds; 5) on the basis of all received information to create a powerful information online resource &quot;Digital Herbarium of Tula Oblast&quot;. According to the results of the project, a database with 23,000 records will appear on this platform. This will enable us to standardize data and to provide an open access to data on flora. The results of the study will form the foundation for studying and conserving the biodiversity of the region, form a powerful basis for the modern regional checklist and atlas of the spatial distribution of species, and will make a significant contribution to the &apos;Atlas of Russian Flora&apos;.</para>
+                </abstract>
+                <funding>
+                    <para>The imaging was supported by the research project 19-44-710002 (Diversity assessment and visualization of the Tula Oblast flora using modern data technologies) funded by RFBR and Tula Oblast Government.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The TUL Herbarium was initially launched as a regional one and focused on the flora of Tula Oblast, including native and alien plants. Only a small part of the collections represents plant specimens from other regions of Russia and is not yet digitised. The main goal of plant collecting for years was a thorough investigation of various plant communities in all administrative districts of Tula Oblast according to the grid-mapping scheme (Shcherbakov 1999).
+
+However, there are a number of reasons that did not allow complete sampling throughout the area:
+
+    peculiarities of human transformation of vegetation cover of Tula Oblast, including wide distribution of agricultural land;
+    more detailed study of protected nature areas;
+    restricted access to certain areas (like museum-reserves);
+    intensive studies of some areas during summer field practices of students.
+
+As a result, some districts of Tula Oblast are well-studied and represented by numerous specimens, whereas other districts are poorly sampled. In Table 1, one can see the number of digitised specimens available in GBIF and number of all databased specimens collected in the administrative districts of Tula Oblast (Fig. 7) ranked in descending order.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Project Background and Aims. Biodiversity conservation is an urgent task for mankind. This environmental challenge is particularly acute in the Tula Oblast characterised by a highly-developed industry, a high proportion of agricultural land, as well as by a low proportion of protected natural areas. The project aimed at the inventory of vascular plant diversity at a new level. For the first time in Tula Oblast, a text database and GIS-module with geolocations have been complemented by the Library of high quality images of herbarium collections. The goal of the project is to assess the actual diversity and spatial structure of the Tula flora by combining various data sources on a single platform, visualising all the available information by digitising data and creating a multifunctional electronic resource with an open access. The main scientific idea is to make the Tula flora visible to the global community.
+
+Project steps.
+
+    To combine the data on five herbarium collections made in Tula Oblast (stored in Tula State Lev Tolstoy Pedagogical University (TUL), Tula State University, Tula Local History Museum, State Museum Reserve &quot;Kulikovo field&quot; and Moscow State University (MW));
+    to image herbarium specimens;
+    to supplement the materials with photographs of plants in the wild;
+    to outwork a database of label transcriptions;
+    to georeference every specimen;
+    to create a regional information online resource &quot;Digital Herbarium of Tula Oblast&quot; (ca. 20,000 records).
+
+The project is scheduled to run for three years and includes laboratory work with collections and field studies of the Tula Oblast flora. The first year of the project (from May of 2019 to May of 2020) was devoted to the accumulation and structuring of electronic data on the regional diversity of vascular plants. We performed processing (inventory, taxonomic revision and databasing) and digitisation of plant collections from Tula Oblast, preserved in Tula State Lev Tolstoy Pedagogical University (TUL) and Lomonosov Moscow State University (MW). As a result, 13,931 images made at 300 dpi were published via the Moscow Digital Herbarium (https://plant.depo.msu.ru/), including 9,000 specimens from the TUL Herbarium. We also made transcriptions of 12,991 labels and georeferencing of 12,909 specimens. Finally, the dataset of the TUL Herbarium has been published in GBIF and the dataset of MW has been published separately (Seregin 2020).
+
+The obtained data on the Tula Oblast flora have already been used during the preparation of the second edition of the regional &quot;Red Data Book&quot; (Shcherbakov 2020, in press). These data are a solid basis for compiling general floristic reports, assessing the conservation status of species at various levels and developing the strategies for legal protection of rare species and plant communities.
+Funding: 
+
+See Acknowledgements section.
+Sampling description: 
+
+Preparation for digitisation
+
+The preparation of the Herbarium collection for imaging included several steps.
+
+    A set of traditional methods and techniques for processing of herbarium specimens (Skvortsov 1977, Geltman 1995), checking the current state of previously-collected specimens, mounting; collecting and complete processing of new accessions.
+    A critical revision of identifications with the involvement of highly-qualified botanists specialising in certain taxonomic groups of plants: S.R. Mayorov — genera Thymus, Oenothera, Physalis, Sisymbrium, Coreopsis; A.V. Shcherbakov — family Potamogetonaceae; A.P. Seregin — genera Carex, Galium, Silene, Dactylorhiza.
+    Full label capturing into the MS Access database. The database consists of a system of interconnected tables and a set of frequently-used queries. The main table contains specimen information (phylum, class, family in Latin and in Russian; genus in Latin; species in Latin; authors of species; infraspecific taxa; authors of the infraspecific taxa; synonym from the original label; species name in Russian; geographical region; administrative region; administrative district; city; toponym (i.e. location, the nearest settlement or its vicinity, natural boundary etc.); habitat; collection date; collector&apos;s name; identifier&apos;s name; re-identification date; re-identifier&apos;s name; notes). The main Table also includes some technical fields for the data processing — sign (any character entered when creating special queries); number of the record (unique number that automatically increases by 1 in each new record); the herbarium number (unique number assigned to a specimen); date of recording; recording person. 
+    Quality control. Сlarification and correction of the entered information with the help of specific queries selecting data on a certain collector, date, location etc. Some important information has been found in literature and some unpublished sources of botanists who worked in Tula Oblast. This allowed us to restore some information gaps in the available data and include them in the database. 
+    Labelling. Each specimen has two labels, i.e. printed label retrieved from the database and the original one. New labels with the unique specimen number and TUL acronym have been obtained from the database by programming external links between MS Access and MS Word. In addition to the new ones, the original labels made by collectors have been placed on the Herbarium sheets to clarify the historical component of the Herbarium.
+    Barcoding. A barcode contains the name of the TUL Herbarium in Latin (Herbarium Universitatis Pedagogical Tulensis), TUL acronym and a six-digit number (like TUL006192). The barcodes were pre-ordered and printed typographically. 
+
+Creation a library of images (scanning and processing)
+
+Imaging was carried out by the commercial partner (https://elar.ru/) on planetary scanners of A2 format with a resolution of 300 dpi in two steps in December 2019 and January 2020. The contribution from the commercial partner included:
+
+    transportation of 9,000 specimens from Tula to Moscow for imaging;
+    imaging of the front sides in TIFF format (300 dpi) with a scale bar;
+    converting TIFF files to JPEG copies;
+    renaming of the files against barcodes;
+    structuring of graphic images in accordance with their physical storage within the herbarium (directory names equal species names on folders);
+    manual quality control of the final images;
+    recording of images on storage media (HDD).
+
+Electronic data capture
+
+Each image was supplied with minimum metadata, for example, ID against barcode, species name from the folder and area code (Tula Oblast). The records from the MS Access database with full label transcriptions were cross-linked using barcode IDs and integrated into the dataset.
+
+Georeferencing specimen data
+
+Manual georeferencing is carried out using standard e-cartographic libraries (Yandex.Maps, Google Maps etc.). We used the old scanned maps (of the early 20th century) for georeferencing of some historical collections, since the names of some geographic locations have been changed or disappeared over time.
+
+Manual georeferencing was supplemented by automatic georeferencing by the ISTRA system (Intellectual System of Toponymic Reading and Attribution), with several lines of the code being written in JAVA (Seregin and Stepanova 2020). This code is integrated into the Moscow Digital Herbarium and unavailable as a stand-alone product. The first algorithm of the ISTRA system combines the specimens into the groups according to the matching of the captured label text. In this case, there are two options for combining — complete matching mode and letters-only mode. The results do not differ in accuracy from the manual georeferencing. The second algorithm of the ISTRA system forms the specimen groups according to the matching of three fields—collection date, collector’s surname and curatorial area. Within the walking-day route, the standard georeferencing accuracy in most cases does not exceed 5 km. Further data refinement will help us to replace automatic georeferencing with a more accurate manual one. In both cases, the operator inserts the coordinates manually and the system sets the coordinates automatically for all specimens of the group. The first algorithm takes precedence over the second one. We save the log file and note the georeferencing method in the form of the standard disclaimers.
+
+Publication of digitised collections
+
+Digitised collections of the TUL Herbarium were published in the Moscow Digital Herbarium. This means that images and metadata are available on three platforms (Seregin 2018).
+
+    Moscow Digital Herbarium (https://plant.depo.msu.ru/) is actually an operational version with a number of search tools like label search, geosearch, search on the taxonomic tree, search by Latin and vernacular names etc. Data administrators of Lomonosov Moscow State University are managing the content and editing the data. IT staff are incorporating new large datasets like labels, georeferences, taxonomic treatments etc. The content of the portal is hidden from search robots, but users can download XLSX-files with general metadata. One can see basic statistics of the Moscow Digital Herbarium right on the homepage.
+    Open version (https://plant.depo.msu.ru/open/). – This portal is optimised for computers, tablets and mobile platforms. The content is updated once a day. The open version allows search robots to access the text and JPG images, as well as quick simple searches through all fields of the database. The content is accessible 24/7 even if we are updating the system or content. One can see search results in the form of small icons and search criteria could be saved as a unique URL.
+    Global Biodiversity Information Facility (https://www.gbif.org/). – Our data are fully available in GBIF without any limitations (Svetasheva and Seregin 2020). Since 2 November 2017, Moscow Digital Herbarium is updating the GBIF-mirror once a week, including datasets of the consortium members (Seregin 2020a). Loading the data into GBIF helps us check data consistency and find mistakes, like coordinate swapping, inaccurate georeferencing, errors in dates etc. The GBIF portal is the only place where one can download our geodata. The real advantage of GBIF is that it delivers our information to a wider community.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-07-08T21:12:44Z</dateStamp>
+                <citation>Svetasheva T, Seregin A (2025). TUL Herbarium: Tula Oblast collections of vascular plants. Version 1.284. Tula State Lev Tolstoy Pedagogical University. Occurrence dataset https://doi.org/10.15468/ca08cm accessed via GBIF.org on 2025-07-08.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.3897/BDJ.8.e61454">Svetasheva TYu, Seregin AP (2020) TUL Herbarium: collections of vascular plants of Tula Oblast, Russia. Biodiversity Data Journal 8: e61454.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://depo.msu.ru/ipt/logo.do?r=tula</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

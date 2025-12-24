@@ -177,9 +177,9 @@ def main():
     print("\n1. LOADING DATASETS...")
     
     # Load training sets
-    flower_train_df = pd.read_csv("../data/Flower Training Set.csv", dtype=str)
-    silique_train_df = pd.read_csv("../data/Silique Training Set.csv", dtype=str)
-    test_df = pd.read_csv("../data/Testing Set New.csv", dtype=str)
+    flower_train_df = pd.read_csv("Flower Training Set.csv", dtype=str)
+    silique_train_df = pd.read_csv("Silique Training Set.csv", dtype=str)
+    test_df = pd.read_csv("Testing Set New.csv", dtype=str)
     
     print(f"Flower training set: {len(flower_train_df)} samples")
     print(f"Silique training set: {len(silique_train_df)} samples")
@@ -187,13 +187,13 @@ def main():
     
     # Load embeddings
     print("\nLoading embeddings...")
-    with open("../data/flower_train_embeddings.pkl", "rb") as f:
+    with open("flower_train_embeddings.pkl", "rb") as f:
         flower_train_embeddings = pickle.load(f)
     
-    with open("../data/silique_train_embeddings.pkl", "rb") as f:
+    with open("silique_train_embeddings.pkl", "rb") as f:
         silique_train_embeddings = pickle.load(f)
     
-    with open("../data/test_embeddings_new.pkl", "rb") as f:
+    with open("test_embeddings_new.pkl", "rb") as f:
         test_embeddings = pickle.load(f)
     
     print(f"Flower train embeddings: {len(flower_train_embeddings)} images")
@@ -352,8 +352,8 @@ def main():
     print("\n6. SAVING MODELS...")
     
     # Save the trained models
-    joblib.dump(flower_results['model'], '../models/trained_flower_classifier.joblib')
-    joblib.dump(silique_results['model'], '../models/trained_silique_classifier.joblib')
+    joblib.dump(flower_results['model'], 'trained_flower_classifier.joblib')
+    joblib.dump(silique_results['model'], 'trained_silique_classifier.joblib')
     
     # Save the model metadata
     model_info = {
@@ -371,13 +371,13 @@ def main():
         'overall_f1': overall_f1
     }
     
-    with open('../models/trained_dual_classifier_info.pkl', 'wb') as f:
+    with open('trained_dual_classifier_info.pkl', 'wb') as f:
         pickle.dump(model_info, f)
     
     print("Models saved:")
-    print("  - ../models/trained_flower_classifier.joblib")
-    print("  - ../models/trained_silique_classifier.joblib") 
-    print("  - ../models/trained_dual_classifier_info.pkl")
+    print("  - trained_flower_classifier.joblib")
+    print("  - trained_silique_classifier.joblib") 
+    print("  - trained_dual_classifier_info.pkl")
     
     # Final Summary
     

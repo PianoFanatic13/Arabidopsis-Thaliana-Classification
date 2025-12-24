@@ -87,9 +87,9 @@ def load_embeddings(input_path):
 
 def main(): 
     #Load all training and testing sets
-    test_df = pd.read_csv("../data/Testing Set New.csv", dtype=str)
-    train_flower_df = pd.read_csv("../data/Flower Training Set.csv", dtype=str)
-    train_silique_df = pd.read_csv("../data/Silique Training Set.csv", dtype=str)
+    test_df = pd.read_csv("Testing Set New.csv", dtype=str)
+    train_flower_df = pd.read_csv("Flower Training Set.csv", dtype=str)
+    train_silique_df = pd.read_csv("Silique Training Set.csv", dtype=str)
 
     print(f"Loaded datasets:")
     print(f"  Testing Set: {len(test_df)} samples")
@@ -150,9 +150,9 @@ def main():
     print("SAVING EMBEDDINGS")
     print("="*50)
     
-    save_embeddings(test_embeddings, "../data/test_embeddings_new.pkl")
-    save_embeddings(flower_train_embeddings, "../data/flower_train_embeddings.pkl")
-    save_embeddings(silique_train_embeddings, "../data/silique_train_embeddings.pkl")
+    save_embeddings(test_embeddings, "test_embeddings_new.pkl")
+    save_embeddings(flower_train_embeddings, "flower_train_embeddings.pkl")
+    save_embeddings(silique_train_embeddings, "silique_train_embeddings.pkl")
     
     # Summary
     print(f"\n" + "="*50)

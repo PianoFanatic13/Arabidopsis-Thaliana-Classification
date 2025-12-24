@@ -21,7 +21,7 @@ def load_model(model_name="facebook/dinov2-large", device=None):
     
     processor = AutoImageProcessor.from_pretrained("facebook/dinov2-large")
     model = AutoModel.from_pretrained("facebook/dinov2-large")
-    model.eval() #Set to inference mode instead of training, so no BatchNorm or Dropout layers are active
+    model.eval()
     model.to(device)
 
     return model, processor, device
@@ -48,11 +48,11 @@ def generate_embedding(image, model, processor, device):
     with torch.no_grad():
         outputs = model(**inputs)
     
-    # Extract last hidden state and take the [CLS] token embedding
+    # Extract last hidden state and take the CLS token embedding
     last_hidden_state = outputs.last_hidden_state
     embedding = last_hidden_state[:, 0, :]
     
-    # Convert to numpy array
+    #1024D Embedding Vector
     return embedding.cpu().numpy().flatten()
 
 def generate_embeddings_batch(image_paths, model=None, processor=None, device=None, batch_size=32):
@@ -96,12 +96,10 @@ def main():
     print(f"  Flower Training Set: {len(train_flower_df)} samples")
     print(f"  Silique Training Set: {len(train_silique_df)} samples")
 
-    # Create image paths using new gbifID_# naming scheme
-    # Testing set uses "Image Name" column with gbifID_# format
+    # Training and Testing sets use "Image Name" column with "gbifID_#.jpg" format
     test_image_paths = [os.path.join("images", f"{img_name}.jpg") 
                         for img_name in test_df["Image Name"]]
-    
-    # Training sets use "Image Name" column with gbifID_# format  
+     
     flower_train_image_paths = [os.path.join("images", f"{img_name}.jpg")
                                for img_name in train_flower_df["Image Name"]]
     

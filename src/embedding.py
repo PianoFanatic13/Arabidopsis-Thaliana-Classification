@@ -150,9 +150,9 @@ def main():
     print("SAVING EMBEDDINGS")
     print("="*50)
     
-    save_embeddings(test_embeddings, "test_embeddings_new.pkl")
-    save_embeddings(flower_train_embeddings, "flower_train_embeddings.pkl")
-    save_embeddings(silique_train_embeddings, "silique_train_embeddings.pkl")
+    save_embeddings(test_embeddings, "../data/test_embeddings_new.pkl")
+    save_embeddings(flower_train_embeddings, "../data/flower_train_embeddings.pkl")
+    save_embeddings(silique_train_embeddings, "../data/silique_train_embeddings.pkl")
     
     # Summary
     print(f"\n" + "="*50)

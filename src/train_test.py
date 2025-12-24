@@ -187,13 +187,13 @@ def main():
     
     # Load embeddings
     print("\nLoading embeddings...")
-    with open("flower_train_embeddings.pkl", "rb") as f:
+    with open("../data/flower_train_embeddings.pkl", "rb") as f:
         flower_train_embeddings = pickle.load(f)
     
-    with open("silique_train_embeddings.pkl", "rb") as f:
+    with open("../data/silique_train_embeddings.pkl", "rb") as f:
         silique_train_embeddings = pickle.load(f)
     
-    with open("test_embeddings_new.pkl", "rb") as f:
+    with open("../data/test_embeddings_new.pkl", "rb") as f:
         test_embeddings = pickle.load(f)
     
     print(f"Flower train embeddings: {len(flower_train_embeddings)} images")

@@ -311,11 +311,11 @@ def main():
     print("="*50)
     
     # File paths
-    image_log_path = "image_occurrence_log.csv"
-    multimedia_path = "multimedia_human_observations_only.csv"
+    image_log_path = "../data/image_occurrence_log.csv"
+    multimedia_path = "../data/multimedia_human_observations_only.csv"
     occurrence_path = "Picture Stuff/occurrence.txt"
-    output_path = "occurrence_analysis_log.csv"
-    enhanced_image_log_path = "image_occurrence_log_with_urls.csv"
+    output_path = "../data/occurrence_analysis_log.csv"
+    enhanced_image_log_path = "../data/image_occurrence_log_with_urls.csv"
     
     try:
         # Step 1: Load image inference results

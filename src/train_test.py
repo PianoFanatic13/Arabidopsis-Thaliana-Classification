@@ -177,9 +177,9 @@ def main():
     print("\n1. LOADING DATASETS...")
     
     # Load training sets
-    flower_train_df = pd.read_csv("Flower Training Set.csv", dtype=str)
-    silique_train_df = pd.read_csv("Silique Training Set.csv", dtype=str)
-    test_df = pd.read_csv("Testing Set New.csv", dtype=str)
+    flower_train_df = pd.read_csv("../data/Flower Training Set.csv", dtype=str)
+    silique_train_df = pd.read_csv("../data/Silique Training Set.csv", dtype=str)
+    test_df = pd.read_csv("../data/Testing Set New.csv", dtype=str)
     
     print(f"Flower training set: {len(flower_train_df)} samples")
     print(f"Silique training set: {len(silique_train_df)} samples")
@@ -352,8 +352,8 @@ def main():
     print("\n6. SAVING MODELS...")
     
     # Save the trained models
-    joblib.dump(flower_results['model'], 'trained_flower_classifier.joblib')
-    joblib.dump(silique_results['model'], 'trained_silique_classifier.joblib')
+    joblib.dump(flower_results['model'], '../models/trained_flower_classifier.joblib')
+    joblib.dump(silique_results['model'], '../models/trained_silique_classifier.joblib')
     
     # Save the model metadata
     model_info = {
@@ -371,13 +371,13 @@ def main():
         'overall_f1': overall_f1
     }
     
-    with open('trained_dual_classifier_info.pkl', 'wb') as f:
+    with open('../models/trained_dual_classifier_info.pkl', 'wb') as f:
         pickle.dump(model_info, f)
     
     print("Models saved:")
-    print("  - trained_flower_classifier.joblib")
-    print("  - trained_silique_classifier.joblib") 
-    print("  - trained_dual_classifier_info.pkl")
+    print("  - ../models/trained_flower_classifier.joblib")
+    print("  - ../models/trained_silique_classifier.joblib") 
+    print("  - ../models/trained_dual_classifier_info.pkl")
     
     # Final Summary
     

@@ -72,18 +72,44 @@ conda activate dinov3
 pip install -r requirements.txt
 
 Inference Example
-from inference import predict_image
+from src.flowering_dual_model import FloweringDualModel
+from src.embedding import load_model, load_image, generate_embedding
 
-label, confidence = predict_image("example.jpg")
-print(label, confidence)
+# Load models
+dinov2_model, processor, device = load_model()
+classifier = FloweringDualModel()
+classifier.load_model(
+    "models/trained_flower_classifier.joblib",
+    "models/trained_silique_classifier.joblib", 
+    "models/trained_dual_classifier_info.pkl"
+)
+
+# Make prediction
+image = load_image("example.jpg")
+embedding = generate_embedding(image, dinov2_model, processor, device)
+prediction = classifier.predict(embedding)
+print(prediction)
 
 Repository Structure
 ├── src/                # Core model and inference code
-├── notebooks/          # Analysis and experimentation
-├── data/               # CSVs or data references (if included)
-├── results/            # Metrics, plots, and logs
+│   ├── inference.py
+│   ├── analysis.py
+│   ├── embedding.py
+│   ├── flowering_dual_model.py
+│   └── train_test.py
+├── data/               # Training, testing, and analysis CSV files
+│   ├── Flower Training Set.csv
+│   ├── Silique Training Set.csv
+│   ├── Testing Set New.csv
+│   ├── image_occurrence_log_with_urls.csv
+│   ├── multimedia_human_observations_only.csv
+│   └── occurrence_analysis_log.csv
+├── models/             # Trained model files
+│   ├── trained_flower_classifier.joblib
+│   ├── trained_silique_classifier.joblib
+│   └── trained_dual_classifier_info.pkl
 ├── README.md
-└── requirements.txt
+└── LICENSE
 
 Limitations
 

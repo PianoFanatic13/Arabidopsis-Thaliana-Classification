@@ -9,11 +9,11 @@ from embedding import load_model, load_image, generate_embedding
 
 # Paths
 image_folder = "images"
-filtered_csv = "multimedia_human_observations_only.csv"
+filtered_csv = "../data/multimedia_human_observations_only.csv"
 output_csv = "image_occurrence_log.csv"
-flower_model_path = "trained_flower_classifier.joblib"
-silique_model_path = "trained_silique_classifier.joblib"
-model_info_path = "trained_dual_classifier_info.pkl"
+flower_model_path = "../models/trained_flower_classifier.joblib"
+silique_model_path = "../models/trained_silique_classifier.joblib"
+model_info_path = "../models/trained_dual_classifier_info.pkl"
 
 # Load the DINOv2 model for embedding generation
 print("Loading DINOv2 model for embedding generation...")

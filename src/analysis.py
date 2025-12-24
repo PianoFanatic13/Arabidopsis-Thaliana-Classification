@@ -313,7 +313,7 @@ def main():
     # File paths
     image_log_path = "../data/image_occurrence_log.csv"
     multimedia_path = "../data/multimedia_human_observations_only.csv"
-    occurrence_path = "Picture Stuff/occurrence.txt"
+    occurrence_path = "../data/occurrence.txt"  # User should place their occurrence.txt file in data/ folder
     output_path = "../data/occurrence_analysis_log.csv"
     enhanced_image_log_path = "../data/image_occurrence_log_with_urls.csv"
     

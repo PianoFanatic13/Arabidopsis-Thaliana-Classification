@@ -87,9 +87,9 @@ def load_embeddings(input_path):
 
 def main(): 
     #Load all training and testing sets
-    test_df = pd.read_csv("Testing Set New.csv", dtype=str)
-    train_flower_df = pd.read_csv("Flower Training Set.csv", dtype=str)
-    train_silique_df = pd.read_csv("Silique Training Set.csv", dtype=str)
+    test_df = pd.read_csv("../data/Testing Set New.csv", dtype=str)
+    train_flower_df = pd.read_csv("../data/Flower Training Set.csv", dtype=str)
+    train_silique_df = pd.read_csv("../data/Silique Training Set.csv", dtype=str)
 
     print(f"Loaded datasets:")
     print(f"  Testing Set: {len(test_df)} samples")

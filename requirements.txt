@@ -1,0 +1,25 @@
+# Project runtime requirements (only packages used in this repository)
+# Python version used: 3.10.18
+
+# Core data + ML
+numpy==1.26.4
+pandas==2.3.1
+scikit-learn==1.6.1
+scipy==1.15.3
+joblib==1.5.1
+
+# Visualization
+matplotlib==3.10.5
+seaborn==0.13.2
+cartopy==0.24.1
+
+# Model + embeddings (DINOv2 via Hugging Face Transformers)
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.2.2+cu118
+torchvision==0.17.2+cu118
+torchaudio==2.2.2+cu118
+transformers==4.53.1
+Pillow==11.3.0
+
+# Utilities
+tqdm==4.67.1

@@ -1,7 +1,7 @@
 # Arabidopsis Thaliana Flowering Classification using DINOv2
 
 ## Overview
-This repository contains the models and analysis used to classify flowering stages of the *Arabidopsis thaliana* from field images using self-supervised visual representations derived from Meta's DINOv2 model. The project focuses on distinguishing flowering and non-flowering states, including the presence of siliques, to support phenological analysis and downstream biological research. This project was done under the guidance of USDA Researcher Dr. Xianran Li
+This repository contains the models and analysis used to classify flowering stages of the *Arabidopsis thaliana* from field images using self-supervised visual representations derived from Meta's DINOv2 model. The project focuses on distinguishing flowering and non-flowering states, including the presence of siliques, to support phenological analysis and downstream biological research. This project was done under the guidance of WSU-USDA Researcher Dr. Xianran Li
 
 The work emphasizes robust feature extraction from limited labeled data and evaluates the effectiveness of modern self-supervised vision transformers for fine-grained plant phenology classification.
 
@@ -37,7 +37,7 @@ To ensure data quality and relevance for inference, the following filters were a
 - Taxon: *Arabidopsis thaliana*
 
 > ### Note on Data Splitting
-
+Because multiple images may correspond to the same GBIF occurrence, all modeling splits are performed in a **group-aware** manner at the occurrence level. This ensures that no images from the same observation appear across both training and evaluation sets, preventing data leakage and artificially inflated performance.
 
 
 ## Model and Evaluation
@@ -167,13 +167,13 @@ Initial model selection was guided by AUC-ROC curves to get a good basis of wher
 
 ### Summary of Tradeoffs
 
-The final pipeline prioritizes precision, interpretability, and biological consistency over maximizing raw classification performance.
+The final pipeline prioritizes precision, interpretability, and biological consistency over maximizing raw classification performance. Minimizing false positives through precision was one of the main considerations since introducing incorrect classifications would affect the subsequent analysis of inference results, and would thus require lots of manual inspection of the results.
 
-The petal classifier achieved strong performance and was highly reliable
-The silique classifier was the primary bottleneck, with false positives reducing downstream flowering predictions
-The strict flowering definition and conservative thresholds resulted in:
-- High precision
-- Moderate recall for flowering (~56%)
+- The petal classifier achieved strong performance and was highly reliable
+- The silique classifier was the primary bottleneck, with false positives reducing downstream flowering predictions
+- The strict flowering definition and conservative thresholds resulted in:
+	- High precision
+	- Moderate recall for flowering (~56%)
 
 As a result, predicted flowering occurrences should be interpreted as a lower bound on true flowering activity, with a bias towards plants being in the early reproductive stage. These tradeoffs align with the goal of extracting reliable phenological signals from noisy, real-world image data.
 
@@ -197,3 +197,131 @@ Occurrence flowering = At least 1 image flowering AND no siliques present in any
 This presence-based aggregation was chosen to reflect how many occurrence images were structured. Since many images for a single occurrence only captured parts of the plant at a time, the rule was chosen to make sure that the plant did indeed enter the reproductive stage, but had entered post-flowering yet due to the presence of any siliques.
 
 ### Inference Results
+
+**Dataset-wide inference summary:**
+- Total images processed: 22,398  
+- Total occurrences evaluated: 13,255  
+
+Following image-level classification and occurrence-level aggregation:
+
+- Number of flowering occurrences: 694  
+- Number of non-flowering occurrences: 12,561 
+
+
+Due to the conservative flowering definition and thresholding strategy, predicted flowering occurrences represent a **high-confidence subset** of true flowering events. Given the observed recall (~56%), the model likely underestimates total flowering frequency, particularly in cases where siliques are incorrectly detected or petals are partially occluded.
+
+These predictions allow downstream phenological analysis, including seasonal distributions and geographic trends.
+
+
+
+## Phenological Analysis
+
+Using the occurrence-level flowering predictions, we analyze large-scale flowering patterns of *Arabidopsis thaliana* across Europe.
+
+### Seasonal Trends
+
+Flowering occurrences were aggregated by month and day-of-year to examine seasonal patterns.
+
+![Seasonal distribution of flowering and non-flowering occurrences](/analysis_images/seasonal_distribution.png "Optional Title Text")
+
+Key observations:
+- Flowering events show a clear distribution peaking during the Spring, primarily March and April
+- The distribution aligns broadly with known phenological patterns from controlled studies
+
+A regression line was also calculated to see if there was any correlation between higher latitudes in coordinates, and flowering time
+
+
+![Regression line of flowering time vs latitude](/analysis_images/regression.png "Optional Title Text")
+We can clearly see a trend of flowering occurring later at higher latitudes and it being significant with a p-value of '1.01e-05'.
+
+
+### Geographic Trends
+
+Flowering occurrence data were analyzed across geographic regions and latitudinal gradients.
+
+![Flowering occurrences mapped over Europe](/analysis_images/occurrences_map.png "Optional Title Text")
+
+![Flowering in different latitude bands](/analysis_images/latitude_bands.png "Optional Title Text")
+
+| Month | South (<45°N) | Mid (45-55°N) | North (>55°N) |
+| :--- | :---: | :---: | :---: |
+| Jan | 16.7% (n=1) | 5.8% (n=14) | 0.0% (n=0) |
+| Feb | 8.3% (n=3) | 7.8% (n=28) | 0.0% (n=0) |
+| Mar | 6.8% (n=10) | 15.5% (n=304) | 18.5% (n=5) |
+| Apr | 0.8% (n=1) | 4.0% (n=226) | 9.7% (n=31) |
+| May | 1.4% (n=1) | 0.8% (n=19) | 2.4% (n=19) |
+| Jun | 0.0% (n=0) | 0.8% (n=2) | 0.0% (n=0) |
+| Jul | 0.0% (n=0) | 3.4% (n=3) | 2.4% (n=1) |
+| Aug | 0.0% (n=0) | 3.1% (n=3) | 9.5% (n=2) |
+| Sep | 0.0% (n=0) | 3.8% (n=4) | 0.0% (n=0) |
+| Oct | 0.0% (n=0) | 2.4% (n=2) | 0.0% (n=0) |
+| Nov | 0.0% (n=0) | 6.8% (n=5) | 0.0% (n=0) |
+| Dec | 33.3% (n=1) | 7.6% (n=9) | 0.0% (n=0) |
+
+*Note: `%` is the flowering rate based on all occurrences in the month, for each latitude; `n` is flowering occurrences. Values with very small `n` can look inflated (for example South in Dec).*
+
+| Latitude Band | Overall Flowering Rate | Flowering Occurrences | Total Observations |
+| :--- | :---: | :---: | :---: |
+| Mid (45-55°N) | 5.4% | 619 | 11,515 |
+| North (>55°N) | 4.3% | 58 | 1,344 |
+| South (<45°N) | 4.3% | 17 | 395 |
+
+Key observations:
+- The middle latitude band shows signs of a strong unimodal distribution, showing flowering mainly in March and April  
+- Warmer climates show earlier onset of flowering  
+- There isn't enough data of flowering occurrences in the north and south to make any strong claims regarding their flowering distributions
+
+### Interpretation
+
+While the model does not capture all flowering events (due to silique-related errors and thresholds prioritizing precision), the detected patterns represent **high-confidence signals** of flowering activity in the Spring, with most occurrences being between the latitude of 45-55 within Europe, based on citizen-science data.
+
+These results demonstrate that:
+- Large-scale phenological trends can be extracted from noisy, real-world image data  
+- Self-supervised visual models can support analysis without extensive manual labeling  
+
+
+## Reproducibility
+
+This repository is structured to support reproducibility of the modeling pipeline and analysis.
+
+### Environment
+* **Python:** 3.10.18
+* **PyTorch:** 2.2.2
+* **CUDA:** 11.8
+* **Transformers:** ≥ 4.53.1
+* **GPU Tested:** NVIDIA RTX 3060 Laptop GPU
+
+### Installation
+```bash
+conda create -n dinov2 python=3.10.8
+conda activate dinov2
+pip install -r requirements.txt
+```
+
+
+## Limitations and Future Work
+
+### Limitations
+* **Silique detection errors:** False positives in the silique classifier reduced flowering recall and are the primary bottleneck for accuracy.
+* **Conservative flowering definition:** The strict rule prioritizes early flowering stages and excludes ambiguous transitional states like going from first onsight of flowering to post-flowering.
+* **Image variability:** Occluded images, low resolution, and inconsistent viewpoints limited detection performance, although the pipeline accounted for and adapted to this well.
+* **Sampling bias:** GBIF data are not uniformly distributed across space or time.
+
+### Future Work
+* **Improved detection:** Improve silique detection through exploration of segmentation-based approaches or CNNs.
+* **Phenological classification:** Explore multi-label phenological classification.
+* **Temporal metadata:** Incorporate temporal metadata for longitudinal analysis.
+* **Ecosystem expansion:** Expand to additional plant species and ecosystems.
+
+## Acknowledgements
+
+This project was conducted under the guidance of Dr. Xianran Li (WSU-USDA).
+
+DINOv2 model provided by Meta AI Research
+
+Data was provided by the Global Biodiversity Information Facility (GBIF):
+
+> GBIF.org (14 August 2025) GBIF Occurrence Download  
+> https://doi.org/10.15468/dl.2w3rzw
+
+We also acknowledge the contributions of citizen scientists and platforms such as iNaturalist, whose observations made this work possible.

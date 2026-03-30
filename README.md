@@ -20,7 +20,7 @@ This project explores whether modern computer vision techniques can be used to i
 The primary data for this project comes from the [GBIF](https://www.gbif.org/), which aggregates millions of georeferenced plant observations and images, many contributed through citizen science initiatives like iNaturalist. Each observation in GBIF is assigned a unique `gbifID`, which corresponds to a single occurrence of a plant species at a given time and location. An occurrence may have one or more associated images, often capturing multiple perspectives of the same plant or population. Of the occurrences that did have multiple images, most had around 3-4 images.
 
 **Across the dataset:**
-- Number of occurrences: 13,256
+- Number of occurrences: 13,255
 - Number of images: 22,398
 - Average images per occurrence: ~1.7
 
